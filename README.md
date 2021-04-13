@@ -1,4 +1,5 @@
-### Hi there I'm [Achuan-2](https://achuan-2.github.io/)👋
+### Hi there I'm Achuan-2👋
+[My Blog](https://achuan-2.github.io/)
 
 <!--
 **Achuan-2/Achuan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
