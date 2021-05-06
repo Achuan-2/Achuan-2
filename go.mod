@@ -1,4 +1,4 @@
-module github.com/Achuan-2/Achuan-2
+module github.com/88250/88250
 
 go 1.14
 
