@@ -1,4 +1,5 @@
-### Hi there I'm Achuan-2👋 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>  
+### Hi there I'm Achuan-2👋 
 [My Blog](https://achuan-2.github.io/)
 
 <!--
