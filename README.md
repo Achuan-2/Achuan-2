@@ -1,4 +1,4 @@
-### Hi there I'm Achuan-2👋
+### Hi there I'm Achuan-2👋 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>
 [My Blog](https://achuan-2.github.io/)
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>
+
 
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
