@@ -7,10 +7,16 @@
 
 ### 我在链滴的近期动态
 
-每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/Achuan-2/Achuan-2)触发实时刷新，最近更新时间：`2021-05-06 21:31:44`
+每天自动刷新，也可以通过 ⭐️ Star [我的个人主页](https://github.com/Achuan-2/Achuan-2)触发实时刷新，最近更新时间：`2021-05-06 21:42:29`
 
 📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
 
+* 💗📝 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://ld246.com/article/1595248018192)
+
+  > 实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
+* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://ld246.com/article/1595248018192/comment/1620307982040#comments)
+
+  > hh ,用上了
 * 💗💬 [顺滑地输出与费曼学习法——笔记方法论](https://ld246.com/article/1619878388009/comment/1619924863984#comments)
 
   > !{{SELECT * FROM blocks WHERE type='d' and created &gt;'20210501' and path not like '%2021-03-18%' ORDER by created DESC}} 试试这个
@@ -29,12 +35,6 @@
 * 💬 [新特性建议，主页和日历视图](https://ld246.com/article/1619078651698/comment/1619137068160#comments)
 
   > 这个点子很棒啊，目前思源文件多了不好管理
-* 💬 [思源关于编号排序的问题](https://ld246.com/article/1619076629887/comment/1619137030679#comments)
-
-  > 这没问题吧，资源管理器打开也是这样啊
-* 💬 [android 客户端屏幕方向旋转导致闪退](https://ld246.com/article/1619073221940/comment/1619136943358#comments)
-
-  > 我平板是可以横屏，不过确实也要先闪退才行
 
 
 <!--events end -->
