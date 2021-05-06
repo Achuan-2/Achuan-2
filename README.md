@@ -1,25 +1,8 @@
 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>  
 ### Hi there I'm Achuan-2👋 
-[My Blog](https://achuan-2.github.io/)
-
-<!--
-**Achuan-2/Achuan-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+[🧊My Blog](https://achuan-2.github.io/)
 <!--events start -->
 
 ### 我在链滴的近期动态
