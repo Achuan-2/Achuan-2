@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/dynamic/json?color=0e9ece&labelColor=131010&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&logo=zhihu&longCache=true)](https://www.zhihu.com/people/achuan-2)
 [![](https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=555555&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349243695&logo=bilibili&longCache=true)](https://space.bilibili.com/349243695)
 
-### Hi there I'm Achuan-2 
+### Hi there I'm Achuan
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 <table>
 <tbody>
