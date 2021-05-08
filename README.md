@@ -4,20 +4,23 @@
 [![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&longCache=true)](https://www.zhihu.com/people/achuan-2)
 ### Hi there I'm Achuan-2 [🌏My Blog](https://achuan-2.github.io/)
 <table>
-<tr>
-<td  width="50%">
+<tbody>
+   <tr>
+       <td  width="50%">
  
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
-</td>
-<td  width="50%">
+       </td>
+       <td  width="50%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
 <!-- END_SECTION:douban -->
 </td>
-</tr>
+        </tr>
+</tbody>
+</table>
+
 
 <!--events start -->
 
