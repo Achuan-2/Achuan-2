@@ -12,7 +12,7 @@
    <tr>
        <td  valign="top" width="50%">
           
-#### 🤹‍♀️ Recent Blog
+#### 🤹‍♀️ [Recent Blog](https://achuan-2.top/)
 <!-- START_SECTION:blog -->
 * <a href='https://achuan-2.top/posts/17b5.html' target='_blank'>Arduino智能小车</a> - 2021-04-17
 * <a href='https://achuan-2.top/posts/a881.html' target='_blank'>阿巛的Hexo博客搭建</a> - 2020-11-15
