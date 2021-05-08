@@ -12,14 +12,14 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: Achuan-2/social-readme@master
+      - uses: zylele/social-readme@master
         with:
           douban_name: sjx270992395
 
   update-wakatime:
     runs-on: ubuntu-latest
     steps:
-      - uses: Achuan-2/waka-readme@master
+      - uses: zylele/waka-readme@master
         with:
           SHOW_TITLE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
