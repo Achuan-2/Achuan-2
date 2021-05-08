@@ -15,11 +15,16 @@
 #### 🤾‍♂️ <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/6985810/' target='_blank'>看过狩猎</a> - 2021-05-08
 * <a href='http://movie.douban.com/subject/1304624/' target='_blank'>看过旺角卡门</a> - 2021-03-19
 * <a href='http://movie.douban.com/subject/1292509/' target='_blank'>看过珍妮的画像</a> - 2021-03-13
 * <a href='https://book.douban.com/subject/1920037/' target='_blank'>想读珍妮的肖像</a> - 2021-03-13
 * <a href='http://movie.douban.com/subject/1305690/' target='_blank'>看过阿飞正传</a> - 2021-03-13
 * <a href='http://movie.douban.com/subject/30181230/' target='_blank'>看过我们与恶的距离</a> - 2021-03-10
+* <a href='http://movie.douban.com/subject/1395091/' target='_blank'>想看未麻的部屋</a> - 2021-03-05
+* <a href='http://movie.douban.com/subject/1307394/' target='_blank'>看过千年女优</a> - 2021-03-05
+* <a href='http://movie.douban.com/subject/1302090/' target='_blank'>看过逃学威龙</a> - 2021-02-20
+* <a href='http://movie.douban.com/subject/1296201/' target='_blank'>看过逃学威龙2</a> - 2021-02-20
 <!-- END_SECTION:douban -->
 </td>
         </tr>
