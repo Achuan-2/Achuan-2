@@ -3,28 +3,17 @@
 [![](https://img.shields.io/badge/dynamic/json?label=Weibo&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2139813304&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/2139813304/profile)
 [![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&longCache=true)](https://www.zhihu.com/people/achuan-2)
 ### Hi there I'm Achuan-2 [🌏My Blog](https://achuan-2.github.io/)
-
-[![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-
 <table>
 <tr>
-<td valign="top" width="50%">
+<td  width="50%">
+[![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-#### :bar_chart: Weekly development breakdown
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 </td>
-<td valign="top" width="50%">
+<td  width="50%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/1304624/' target='_blank'>看过旺角卡门</a> - 2021-03-19
-* <a href='http://movie.douban.com/subject/1292509/' target='_blank'>看过珍妮的画像</a> - 2021-03-13
-* <a href='https://book.douban.com/subject/1920037/' target='_blank'>想读珍妮的肖像</a> - 2021-03-13
-* <a href='http://movie.douban.com/subject/1305690/' target='_blank'>看过阿飞正传</a> - 2021-03-13
-* <a href='http://movie.douban.com/subject/30181230/' target='_blank'>看过我们与恶的距离</a> - 2021-03-10
 <!-- END_SECTION:douban -->
 </td>
 </tr>
