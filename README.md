@@ -1,7 +1,7 @@
 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg"></a>  
-[![](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzylele&labelColor=282c34&color=181717&logo=github&longCache=true)](https://github.com/Achuan-2)
-[![](https://img.shields.io/badge/dynamic/json?label=微博&suffix=%20粉丝&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D1694568584&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/2139813304/profile)
-[![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=知乎&suffix=%20关注者&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dznyalor&longCache=true)](https://www.zhihu.com/people/achuan-2)
+[![](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=181717&logo=github&longCache=true)](https://github.com/Achuan-2)
+[![](https://img.shields.io/badge/dynamic/json?label=微博&suffix=%20粉丝&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2139813304&labelColor=e71f19&color=040000&logo=sina-weibo&longCache=true)](https://weibo.com/2139813304/profile)
+[![](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=知乎&suffix=%20关注者&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&longCache=true)](https://www.zhihu.com/people/achuan-2)
 ### Hi there I'm Achuan-2 [🌏My Blog](https://achuan-2.github.io/)
 
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
