@@ -6,11 +6,11 @@
 <table>
 <tbody>
    <tr>
-       <td  width="70%">
+       <td  width="60%">
           
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
        </td>
-       <td  width="30%">
+       <td  width="40%">
 
 #### 🤾‍♂️ <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
