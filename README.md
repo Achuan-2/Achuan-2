@@ -9,6 +9,7 @@
 <table>
 <tr>
 <td valign="top" width="50%">
+
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 
