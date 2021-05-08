@@ -37,7 +37,7 @@ func main() {
 	buf.WriteString("\n\n")
 	cstSh, _ := time.LoadLocation("Asia/Shanghai")
 	updated := time.Now().In(cstSh).Format("2006-01-02 15:04:05")
-	buf.WriteString("### Recent updates in Liandi \n\n Last Update Time：`" + updated + "`\n\n📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏\n\n")
+	buf.WriteString("### Recent updates in Liandi \n\n Last Update Time：`" + updated + "`\n\n📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; 👨‍💻 User &nbsp; 🏷️ Tag &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection\n\n")
 	for _, event := range result["data"].([]interface{}) {
 		evt := event.(map[string]interface{})
 		operation := evt["operation"].(string)
