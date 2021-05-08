@@ -15,11 +15,3 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           douban_name: sjx270992395
-
-  update-wakatime:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: zylele/waka-readme@master
-        with:
-          SHOW_TITLE: true
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
