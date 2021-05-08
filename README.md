@@ -6,6 +6,24 @@
 
 [![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
+<table>
+<tr>
+<td valign="top" width="50%">
+#### :bar_chart: Weekly development breakdown
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+</td>
+<td valign="top" width="50%">
+
+#### 🤾‍♂️ <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
+
+<!-- START_SECTION:douban -->
+
+<!-- END_SECTION:douban -->
+</td>
+</tr>
+
 <!--events start -->
 
 ### Recent updates in Liandi 
