@@ -7,9 +7,9 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-05-08 14:05:21`
+ Last Update Time：`2021-05-08 14:10:48`
 
-📝 帖子 &nbsp; 💬 评论 &nbsp; 🗣 回帖 &nbsp; 🌙 清月 &nbsp; 👨‍💻 用户 &nbsp; 🏷️ 标签 &nbsp; ⭐️ 关注 &nbsp; 👍 赞同 &nbsp; 💗 感谢 &nbsp; 💰 打赏 &nbsp; 🗃 收藏
+📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; 👨‍💻 User &nbsp; 🏷️ Tag &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
 * 💬 [分享：一键拷贝常用动画效果 CSS 代码](https://ld246.com/article/1600102389095/comment/1620382202961#comments)
 
