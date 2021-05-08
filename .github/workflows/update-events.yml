@@ -22,3 +22,11 @@ jobs:
         git diff
         git add . && git commit -m ":memo: 更新自述" || exit 0
         git push
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://achuan-2.top/atom.xml
+          douban_name: sjx270992395
+          douban_limit: 7
