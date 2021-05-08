@@ -7,8 +7,7 @@
 <tbody>
    <tr>
        <td  width="50%">
- 
-[![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+ <a herf="https://github.com/anuraghazra/github-readme-stats"><img src='https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true' ><a>
        </td>
        <td  width="50%">
 
