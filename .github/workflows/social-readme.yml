@@ -15,4 +15,4 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           douban_name: sjx270992395
-          douban_limit: 10
+          douban_limit: 5
