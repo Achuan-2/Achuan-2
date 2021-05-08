@@ -7,14 +7,14 @@
 <table>
 <tbody>
    <tr>
-       <td  width="50%">
+       <td  valign="top" width="50%">
           
 #### 🤹‍♀️ Recent Blog
 <!-- START_SECTION:blog -->
 
 <!-- END_SECTION:blog -->
 </td>
-       <td  width="50%">
+       <td  valign="top" width="50%">
 
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
