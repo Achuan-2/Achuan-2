@@ -1,0 +1,25 @@
+name: Build Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Achuan-2/social-readme@master
+        with:
+          douban_name: sjx270992395
+
+  update-wakatime:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Achuan-2/waka-readme@master
+        with:
+          SHOW_TITLE: true
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
