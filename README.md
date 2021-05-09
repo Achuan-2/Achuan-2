@@ -42,10 +42,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-05-08 16:03:17`
+ Last Update Time：`2021-05-09 16:03:18`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620479026505)
+
+  > github 放 B 站关注者徽章 ![](https://img.shields.io/badge/dynamic/json?color=00a1d6&amp;labelColor=555555&amp;label=Bilibili&amp;suffix=+followers&amp;query=%24.data.t ..
 * 💬 [分享：一键拷贝常用动画效果 CSS 代码](https://ld246.com/article/1600102389095/comment/1620382202961#comments)
 
   > 哇，很棒欸
@@ -67,9 +70,6 @@
 * 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://ld246.com/article/1595248018192/comment/1620307982040#comments)
 
   > hh ,用上了
-* 💗💬 [顺滑地输出与费曼学习法——笔记方法论](https://ld246.com/article/1619878388009/comment/1619924863984#comments)
-
-  > !{{SELECT * FROM blocks WHERE type='d' and created &gt;'20210501' and path not like '%2021-03-18%' ORDER by created DESC}} 试试这个
 
 
 <!--events end -->
