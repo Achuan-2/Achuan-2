@@ -42,10 +42,16 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-05-09 16:03:18`
+ Last Update Time：`2021-05-10 16:03:52`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620575283148)
+
+  > 编程作为 “讲解如何习得自学能力的例子”，实在是太好了。 首先，编程这个东西反正要自学 —— 不信你问问计算机专业的人，他们会如实告诉你的，学校里确实也教，但说实话都教得不太好…… 其次，编程这个东西最适合 “仅靠阅读自学” —— 这个领域发展很快，到最后，新东西出来的时候，没有老师存在，任由你是谁，都只能去阅读 “官 ..
+* 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620574129084)
+
+  > 在前端开发中，assets 代表 js、css、模板、图片、flash 等等资源文件， 如果你用词典搜索 [链接] 其实更多是资产的意思，但在咱码农眼里，assets 就是资源、素材的意思 [图片]
 * 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620479026505)
 
   > github 放 B 站关注者徽章 ![](https://img.shields.io/badge/dynamic/json?color=00a1d6&amp;labelColor=555555&amp;label=Bilibili&amp;suffix=+followers&amp;query=%24.data.t ..
@@ -64,12 +70,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620317857809)
 
   > Tsundoku “積 ん 読”是日语里的一个词，维基百科是这样解释的“Tsundoku is acquiring reading materials but letting them pile up in one's home without reading them. It is also used to refe ..
-* 💗📝 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://ld246.com/article/1595248018192)
-
-  > 实际效果 先看效果 https://github.com/88250 [图片] 红框部分是通过 GitHub Actions 自动更新的，内容来源由社区 API 获取用户近期动态列表提供。当有人 Star 我的个人主页仓库 https://github.com/88250/88250 时就会触发该 GitHub Act ..
-* 💬 [使用 GitHub Actions 对 GitHub Profile 个人主页进行自动更新](https://ld246.com/article/1595248018192/comment/1620307982040#comments)
-
-  > hh ,用上了
 
 
 <!--events end -->
