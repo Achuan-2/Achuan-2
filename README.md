@@ -24,13 +24,13 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1308807/' target='_blank'>看过哈尔的移动城堡</a> - 2021-05-18
+* <a href='http://movie.douban.com/subject/1293318/' target='_blank'>看过萤火虫之墓</a> - 2021-05-17
 * <a href='https://book.douban.com/subject/26268884/' target='_blank'>想读哈尔的移动城堡</a> - 2021-05-11
-* <a href='http://movie.douban.com/subject/1308807/' target='_blank'>想看哈尔的移动城堡</a> - 2021-05-11
 * <a href='http://movie.douban.com/subject/1395091/' target='_blank'>看过未麻的部屋</a> - 2021-05-10
 * <a href='http://movie.douban.com/subject/2043546/' target='_blank'>看过秒速5厘米</a> - 2021-05-08
 * <a href='http://movie.douban.com/subject/5989818/' target='_blank'>看过萤火之森</a> - 2021-05-08
 * <a href='http://movie.douban.com/subject/6985810/' target='_blank'>看过狩猎</a> - 2021-05-08
-* <a href='http://movie.douban.com/subject/1304624/' target='_blank'>看过旺角卡门</a> - 2021-03-19
 <!-- END_SECTION:douban -->
 </td>
         </tr>
