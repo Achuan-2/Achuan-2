@@ -42,10 +42,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-05-20 16:06:39`
+ Last Update Time：`2021-05-21 16:06:52`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 👍🌙 [赞同了清风明月](https://ld246.com/member/88250/breezemoons/1621441606899)
+
+  > 思源 v1.2.0 开发基本结束，这是一个新的开始。
 * 💗📝 [在 Windows 搭建 Vue 开发环境](https://ld246.com/article/1620629464271)
 
   > 安装 VS Code 下载 Visual Studio Code 并安装。 然后在 VS Code 中安装 Vetur 插件。 安装 Vue CLI Vue CLI 是 Vue 提供的一个开发工具，它的运行依赖 Node.js。因此，首先要安装 Node.js 和 npm，直接去 Node.js 官网 下载安装包安装即 ..
@@ -67,9 +70,6 @@
 * 💗📝 [分享：一键拷贝常用动画效果 CSS 代码](https://ld246.com/article/1600102389095)
 
   > 分享一个 CSS 动效相关的网站： https://cssfx.lovejade.cn/ 。她集合 Web 开发中常用的动画效果，如鼠标悬停、输入框获取焦点、加载、以及其他动画；不仅有展示效果，并提供一键拷贝至剪切板，以便您可以在自己的项目中使用。 备注：这个项目是基于 Github 的一个项目（CSSFX 🎉）fo ..
-* 💗🌙 [感谢了清风明月](https://ld246.com/member/88250/breezemoons/1619799388768)
-
-  > 劳动着过劳动节 🙃
 
 
 <!--events end -->
