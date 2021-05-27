@@ -42,10 +42,16 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-05-26 16:20:17`
+ Last Update Time：`2021-05-27 16:28:56`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [Lute HTTP 安装（解决 latex 公式渲染问题）](https://ld246.com/article/1615781170283/comment/1622097227487#comments)
+
+  > 那本地运行应该加参数在哪呢
+* 💬 [Solo 生成导出静态站点](https://ld246.com/article/1579053576274/comment/1622090809039#comments)
+
+  > 本来想把 static-site 直接当成仓库的，结果发现会覆盖.git
 * 👍🌙 [赞同了清风明月](https://ld246.com/member/88250/breezemoons/1621441606899)
 
   > 思源 v1.2.0 开发基本结束，这是一个新的开始。
@@ -64,12 +70,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620479026505)
 
   > github 放 B 站关注者徽章 ![](https://img.shields.io/badge/dynamic/json?color=00a1d6&amp;labelColor=555555&amp;label=Bilibili&amp;suffix=+followers&amp;query=%24.data.t ..
-* 💬 [分享：一键拷贝常用动画效果 CSS 代码](https://ld246.com/article/1600102389095/comment/1620382202961#comments)
-
-  > 哇，很棒欸
-* 💗📝 [分享：一键拷贝常用动画效果 CSS 代码](https://ld246.com/article/1600102389095)
-
-  > 分享一个 CSS 动效相关的网站： https://cssfx.lovejade.cn/ 。她集合 Web 开发中常用的动画效果，如鼠标悬停、输入框获取焦点、加载、以及其他动画；不仅有展示效果，并提供一键拷贝至剪切板，以便您可以在自己的项目中使用。 备注：这个项目是基于 Github 的一个项目（CSSFX 🎉）fo ..
 
 
 <!--events end -->
