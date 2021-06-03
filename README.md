@@ -44,10 +44,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-02 17:34:23`
+ Last Update Time：`2021-06-03 16:53:39`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💗📝 [期望大纲能像 word 一样调整结构](https://ld246.com/article/1622626892338)
+
+  > 如题[图片] 如题，目前调整标题若是遇到显示器一页展示不全的情况，只能剪切粘贴，很不方便。
 * 💗💬 [文档树 log 太丑了, 能不能换换?](https://ld246.com/article/1622027770451/comment/1622039359403#comments)
 
   > 俺自己画了一个，用「文件夹」图标表示了 😄 参见：[链接]
@@ -69,9 +72,6 @@
 * 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620664202613)
 
   > “看说明书 ” 就是这样，全都看了，真不一定全部看懂，但看总是比不看强，因为总是有能看懂的部分……
-* 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620575283148)
-
-  > 编程作为 “讲解如何习得自学能力的例子”，实在是太好了。 首先，编程这个东西反正要自学 —— 不信你问问计算机专业的人，他们会如实告诉你的，学校里确实也教，但说实话都教得不太好…… 其次，编程这个东西最适合 “仅靠阅读自学” —— 这个领域发展很快，到最后，新东西出来的时候，没有老师存在，任由你是谁，都只能去阅读 “官 ..
 
 
 <!--events end -->
