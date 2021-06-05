@@ -44,10 +44,19 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-04 17:24:37`
+ Last Update Time：`2021-06-05 16:31:20`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [块级横排编辑不是很好](https://ld246.com/article/1622812708097/comment/1622863692469#comments)
+
+  > 按回车之后，选中两栏合并为垂直排列的超级块
+* 💗📝 [1.2 真不错](https://ld246.com/article/1622725747115)
+
+  > 最早叫链滴的时候试用过，后来思源大概 0.4 的时候再接触，比链滴已经有极大的改进，一个个版本追下来，到 1.2，再次有了堪称脱胎换骨的变化，既包括外观的改进，也包括性能的提升。 希望各位尽早体验，多多支持！ 只想说：开发者厉害！！！ [图片] [图片]
+* 💬 [思源笔记文档树显示模式提议：目录、文档分离显示](https://ld246.com/article/1622787648180/comment/1622863250785#comments)
+
+  > OneNote 也是类似的结构
 * 💗📝 [期望大纲能像 word 一样调整结构](https://ld246.com/article/1622626892338)
 
   > 如题[图片] 如题，目前调整标题若是遇到显示器一页展示不全的情况，只能剪切粘贴，很不方便。
@@ -63,15 +72,6 @@
 * 💬 [Solo 生成导出静态站点](https://ld246.com/article/1579053576274/comment/1622090809039#comments)
 
   > 本来想把 static-site 直接当成仓库的，结果发现会覆盖.git
-* 👍🌙 [赞同了清风明月](https://ld246.com/member/88250/breezemoons/1621441606899)
-
-  > 思源 v1.2.0 开发基本结束，这是一个新的开始。
-* 💗📝 [在 Windows 搭建 Vue 开发环境](https://ld246.com/article/1620629464271)
-
-  > 安装 VS Code 下载 Visual Studio Code 并安装。 然后在 VS Code 中安装 Vetur 插件。 安装 Vue CLI Vue CLI 是 Vue 提供的一个开发工具，它的运行依赖 Node.js。因此，首先要安装 Node.js 和 npm，直接去 Node.js 官网 下载安装包安装即 ..
-* 🌙 [发布了清风明月](https://ld246.com/member/Achuan-2/breezemoons/1620664202613)
-
-  > “看说明书 ” 就是这样，全都看了，真不一定全部看懂，但看总是比不看强，因为总是有能看懂的部分……
 
 
 <!--events end -->
