@@ -44,10 +44,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-08 16:10:11`
+ Last Update Time：`2021-06-10 16:05:08`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [希望可以自行设置“点击列表项圆点时的默认行为”](https://ld246.com/article/1622920616146/comment/1623234478079#comments)
+
+  > 想知道有没有办法退出聚焦回到原来的位置
 * 💬 [块级横排编辑不是很好](https://ld246.com/article/1622812708097/comment/1622863692469#comments)
 
   > 按回车之后，选中两栏合并为垂直排列的超级块
@@ -69,9 +72,6 @@
 * 💬 [Lute HTTP 安装（解决 latex 公式渲染问题）](https://ld246.com/article/1615781170283/comment/1622097227487#comments)
 
   > 那本地运行应该加参数在哪呢
-* 💬 [Solo 生成导出静态站点](https://ld246.com/article/1579053576274/comment/1622090809039#comments)
-
-  > 本来想把 static-site 直接当成仓库的，结果发现会覆盖.git
 
 
 <!--events end -->
