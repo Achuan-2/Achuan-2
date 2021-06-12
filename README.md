@@ -1,5 +1,5 @@
 
-<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" align="right"></a>
+<a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
 [![](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=181717&logo=github&longCache=true)](https://github.com/Achuan-2)
 [![](https://img.shields.io/badge/dynamic/json?labelColor=e71f19&color=040000&label=Weibo&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2139813304&logo=sina-weibo&longCache=true)](https://weibo.com/2139813304/profile)
 [![](https://img.shields.io/badge/dynamic/json?color=0e9ece&labelColor=131010&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&logo=zhihu&longCache=true)](https://www.zhihu.com/people/achuan-2)
