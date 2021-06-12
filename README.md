@@ -44,10 +44,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-11 16:04:21`
+ Last Update Time：`2021-06-12 16:04:11`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [隐藏笔记右侧的蓝色滚动条](https://ld246.com/article/1623158685538/comment/1623406764505#comments)
+
+  > hh, 我也基本不用
 * 💬 [希望可以自行设置“点击列表项圆点时的默认行为”](https://ld246.com/article/1622920616146/comment/1623234478079#comments)
 
   > 想知道有没有办法退出聚焦回到原来的位置
@@ -69,9 +72,6 @@
 * 👍💬 [文档树 log 太丑了, 能不能换换?](https://ld246.com/article/1622027770451/comment/1622039359403#comments)
 
   > 俺自己画了一个，用「文件夹」图标表示了 😄 参见：[链接]
-* 💬 [Lute HTTP 安装（解决 latex 公式渲染问题）](https://ld246.com/article/1615781170283/comment/1622097227487#comments)
-
-  > 那本地运行应该加参数在哪呢
 
 
 <!--events end -->
