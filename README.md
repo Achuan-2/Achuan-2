@@ -44,10 +44,16 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-13 16:03:58`
+ Last Update Time：`2021-06-14 16:04:45`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [【持续更新】思源 CSS 主题修改常见问题与教程](https://ld246.com/article/1623514611258/comment/1623637695777#comments)
+
+  > 大佬赞啊！
+* 💬 [功能提议：注释块](https://ld246.com/article/1623594205570/comment/1623637614662#comments)
+
+  > 自动分页这个期待啊，这样导出排版更方便了，可以确定分页的位置，手动调整
 * 💬 [隐藏笔记右侧的蓝色滚动条](https://ld246.com/article/1623158685538/comment/1623406764505#comments)
 
   > hh, 我也基本不用
@@ -66,12 +72,6 @@
 * 💗📝 [期望大纲能像 word 一样调整结构](https://ld246.com/article/1622626892338)
 
   > 如题[图片] 如题，目前调整标题若是遇到显示器一页展示不全的情况，只能剪切粘贴，很不方便。
-* 💗💬 [文档树 log 太丑了, 能不能换换?](https://ld246.com/article/1622027770451/comment/1622039359403#comments)
-
-  > 俺自己画了一个，用「文件夹」图标表示了 😄 参见：[链接]
-* 👍💬 [文档树 log 太丑了, 能不能换换?](https://ld246.com/article/1622027770451/comment/1622039359403#comments)
-
-  > 俺自己画了一个，用「文件夹」图标表示了 😄 参见：[链接]
 
 
 <!--events end -->
