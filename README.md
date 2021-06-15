@@ -44,10 +44,13 @@
 
 ### Recent updates in Liandi 
 
- Last Update Time：`2021-06-14 16:04:45`
+ Last Update Time：`2021-06-15 16:05:19`
 
 📝 Posts &nbsp; 💬 Comments &nbsp; 🗣 Replies &nbsp; 🌙 Gossip &nbsp; ⭐️ Follow &nbsp; 👍 Like &nbsp; 💗 Thank &nbsp; 💰 Reward &nbsp; 🗃 Collection
 
+* 💬 [思源笔记有好的网页裁剪方法吗](https://ld246.com/article/1623668039889/comment/1623675572246#comments)
+
+  > siyuan 自己的扩展 webcliper 简悦
 * 💬 [【持续更新】思源 CSS 主题修改常见问题与教程](https://ld246.com/article/1623514611258/comment/1623637695777#comments)
 
   > 大佬赞啊！
@@ -69,9 +72,6 @@
 * 💬 [思源笔记文档树显示模式提议：目录、文档分离显示](https://ld246.com/article/1622787648180/comment/1622863250785#comments)
 
   > OneNote 也是类似的结构
-* 💗📝 [期望大纲能像 word 一样调整结构](https://ld246.com/article/1622626892338)
-
-  > 如题[图片] 如题，目前调整标题若是遇到显示器一页展示不全的情况，只能剪切粘贴，很不方便。
 
 
 <!--events end -->
