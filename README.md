@@ -14,11 +14,11 @@
           
 #### 🤹‍♀️ [Recent Blog](https://achuan-2.top/)
 <!-- START_SECTION:blog -->
-* <a href='https://achuan-2.top/posts/b890.html' target='_blank'>蛋白质组学备考</a> - 2021-05-27
-* <a href='https://achuan-2.top/posts/a0e.html' target='_blank'>生信数据挖掘备考</a> - 2021-05-27
+* <a href='https://achuan-2.top/posts/e98d.html' target='_blank'>不发朋友圈的人</a> - 2021-06-17
+* <a href='https://achuan-2.top/posts/80a3.html' target='_blank'>外公再见</a> - 2021-06-17
+* <a href='https://achuan-2.top/posts/80ed.html' target='_blank'>爷爷再见</a> - 2021-06-17
+* <a href='https://achuan-2.top/posts/23b2.html' target='_blank'>小熊的独白</a> - 2021-06-17
 * <a href='https://achuan-2.top/posts/17b5.html' target='_blank'>Arduino智能小车</a> - 2021-04-17
-* <a href='https://achuan-2.top/posts/a881.html' target='_blank'>阿巛的Hexo博客搭建</a> - 2020-11-15
-* <a href='https://achuan-2.top/posts/c134.html' target='_blank'>The Python Challenge Daily Record</a> - 2020-11-14
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
