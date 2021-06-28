@@ -19,6 +19,8 @@
 * <a href='https://achuan-2.top/posts/80ed.html' target='_blank'>爷爷再见</a> - 2021-06-17
 * <a href='https://achuan-2.top/posts/23b2.html' target='_blank'>小熊的独白</a> - 2021-06-17
 * <a href='https://achuan-2.top/posts/17b5.html' target='_blank'>Arduino智能小车</a> - 2021-04-17
+* <a href='https://achuan-2.top/posts/a881.html' target='_blank'>阿巛的Hexo博客搭建</a> - 2020-11-15
+* <a href='https://achuan-2.top/posts/c134.html' target='_blank'>The Python Challenge Daily Record</a> - 2020-11-14
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -33,6 +35,9 @@
 * <a href='http://movie.douban.com/subject/1292223/' target='_blank'>想看七宗罪</a> - 2021-06-20
 * <a href='http://movie.douban.com/subject/1291828/' target='_blank'>想看天堂电影院</a> - 2021-06-20
 * <a href='http://movie.douban.com/subject/1780330/' target='_blank'>想看致命魔术</a> - 2021-06-20
+* <a href='http://movie.douban.com/subject/20495023/' target='_blank'>想看寻梦环游记</a> - 2021-06-20
+* <a href='http://movie.douban.com/subject/3011091/' target='_blank'>想看忠犬八公的故事</a> - 2021-06-20
+* <a href='https://book.douban.com/subject/27116235/' target='_blank'>读过飞行家</a> - 2021-06-20
 <!-- END_SECTION:douban -->
 </td>
         </tr>
