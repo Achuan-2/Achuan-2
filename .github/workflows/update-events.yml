@@ -28,5 +28,6 @@ jobs:
       - uses: zylele/social-readme@master
         with:
           blog_rss_link: https://achuan-2.top/atom.xml
+          blog_limit: 10
           douban_name: sjx270992395
-          douban_limit: 7
+          douban_limit: 10
