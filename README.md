@@ -28,6 +28,9 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1307906/' target='_blank'>想看孤男寡女</a> - 2021-06-30
+* <a href='http://movie.douban.com/subject/1299649/' target='_blank'>想看下一站…天后</a> - 2021-06-30
+* <a href='http://movie.douban.com/subject/4305436/' target='_blank'>想看志明与春娇</a> - 2021-06-30
 * <a href='http://movie.douban.com/subject/1298644/' target='_blank'>看过赌圣</a> - 2021-06-28
 * <a href='http://movie.douban.com/subject/1300566/' target='_blank'>看过赌侠</a> - 2021-06-28
 * <a href='http://movie.douban.com/subject/1300883/' target='_blank'>看过赌神</a> - 2021-06-28
@@ -35,9 +38,6 @@
 * <a href='http://movie.douban.com/subject/1297574/' target='_blank'>想看英雄本色</a> - 2021-06-20
 * <a href='http://movie.douban.com/subject/1292223/' target='_blank'>想看七宗罪</a> - 2021-06-20
 * <a href='http://movie.douban.com/subject/1291828/' target='_blank'>想看天堂电影院</a> - 2021-06-20
-* <a href='http://movie.douban.com/subject/1780330/' target='_blank'>想看致命魔术</a> - 2021-06-20
-* <a href='http://movie.douban.com/subject/20495023/' target='_blank'>想看寻梦环游记</a> - 2021-06-20
-* <a href='http://movie.douban.com/subject/3011091/' target='_blank'>想看忠犬八公的故事</a> - 2021-06-20
 <!-- END_SECTION:douban -->
 </td>
         </tr>
