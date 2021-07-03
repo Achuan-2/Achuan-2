@@ -28,6 +28,7 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1292289/' target='_blank'>看过心动</a> - 2021-07-03
 * <a href='http://movie.douban.com/subject/1307906/' target='_blank'>想看孤男寡女</a> - 2021-06-30
 * <a href='http://movie.douban.com/subject/1299649/' target='_blank'>想看下一站…天后</a> - 2021-06-30
 * <a href='http://movie.douban.com/subject/4305436/' target='_blank'>想看志明与春娇</a> - 2021-06-30
@@ -37,7 +38,6 @@
 * <a href='http://movie.douban.com/subject/1292506/' target='_blank'>看过赌神2</a> - 2021-06-26
 * <a href='http://movie.douban.com/subject/1297574/' target='_blank'>想看英雄本色</a> - 2021-06-20
 * <a href='http://movie.douban.com/subject/1292223/' target='_blank'>想看七宗罪</a> - 2021-06-20
-* <a href='http://movie.douban.com/subject/1291828/' target='_blank'>想看天堂电影院</a> - 2021-06-20
 <!-- END_SECTION:douban -->
 </td>
         </tr>
