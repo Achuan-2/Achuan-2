@@ -28,6 +28,7 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2021-07-22
 * <a href='https://book.douban.com/subject/35503571/' target='_blank'>想读卡片笔记写作法</a> - 2021-07-18
 * <a href='https://book.douban.com/subject/30216624/' target='_blank'>想读How to Take Smart Notes</a> - 2021-07-17
 * <a href='http://movie.douban.com/subject/1878605/' target='_blank'>想看大时代</a> - 2021-07-16
@@ -37,7 +38,6 @@
 * <a href='http://movie.douban.com/subject/1299649/' target='_blank'>想看下一站…天后</a> - 2021-06-30
 * <a href='http://movie.douban.com/subject/4305436/' target='_blank'>想看志明与春娇</a> - 2021-06-30
 * <a href='http://movie.douban.com/subject/1298644/' target='_blank'>看过赌圣</a> - 2021-06-28
-* <a href='http://movie.douban.com/subject/1300566/' target='_blank'>看过赌侠</a> - 2021-06-28
 <!-- END_SECTION:douban -->
 </td>
         </tr>
