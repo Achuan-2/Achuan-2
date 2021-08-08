@@ -30,7 +30,7 @@
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/26952718/' target='_blank'>读过好好学习</a> - 2021-08-04
 * <a href='http://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2021-07-22
-* <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看公无渡河</a> - 2021-07-22
+* <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看亲爱的，不要跨过那条江</a> - 2021-07-22
 * <a href='http://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2021-07-22
 * <a href='https://book.douban.com/subject/35503571/' target='_blank'>想读卡片笔记写作法</a> - 2021-07-18
 * <a href='https://book.douban.com/subject/30216624/' target='_blank'>想读How to Take Smart Notes</a> - 2021-07-17
