@@ -14,6 +14,7 @@
           
 #### 🤹‍♀️ [Recent Blog](https://achuan-2.top/)
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.top/posts/b8c8.html' target='_blank'>GitHub 提交代码时 emoji 表情的使用</a> - 2021-08-11
 * <a href='https://achuan-2.top/posts/e98d.html' target='_blank'>不发朋友圈的人</a> - 2021-06-17
 * <a href='https://achuan-2.top/posts/80a3.html' target='_blank'>外公再见</a> - 2021-06-17
 * <a href='https://achuan-2.top/posts/80ed.html' target='_blank'>爷爷再见</a> - 2021-06-17
