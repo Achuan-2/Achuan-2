@@ -30,7 +30,6 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/26952718/' target='_blank'>读过好好学习</a> - 2021-08-04
 * <a href='http://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2021-07-22
 * <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看亲爱的，不要跨过那条江</a> - 2021-07-22
 * <a href='http://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2021-07-22
