@@ -30,6 +30,7 @@
 #### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/33944838/' target='_blank'>读过考试脑科学</a> - 2021-09-13
 * <a href='https://book.douban.com/subject/10786473/' target='_blank'>读过自控力</a> - 2021-09-07
 * <a href='https://book.douban.com/subject/26952718/' target='_blank'>读过好好学习</a> - 2021-08-04
 * <a href='http://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2021-07-22
@@ -39,7 +40,6 @@
 * <a href='https://book.douban.com/subject/30216624/' target='_blank'>想读How to Take Smart Notes</a> - 2021-07-17
 * <a href='http://movie.douban.com/subject/1878605/' target='_blank'>想看大时代</a> - 2021-07-16
 * <a href='http://movie.douban.com/subject/1297574/' target='_blank'>看过英雄本色</a> - 2021-07-12
-* <a href='http://movie.douban.com/subject/1292289/' target='_blank'>看过心动</a> - 2021-07-03
 <!-- END_SECTION:douban -->
 </td>
         </tr>
