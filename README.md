@@ -6,10 +6,13 @@
 [![](https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=555555&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349243695&logo=bilibili&longCache=true)](https://space.bilibili.com/349243695)
 
 ### Hi there I'm Achuan
-[![Achuan-2's github stats](https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html)
+<div>
+   <img src = "https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true"  alt="Achuan-2's github stats" width = "50%" align = "left" style="display:inline-block">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html" alt="Achuan-2's top-langs" width = "44%" align = "right" style="display:inline-block">
+</div>
 <table>
 <tbody>
+
    <tr>
        <td  valign="top" width="50%">
           
