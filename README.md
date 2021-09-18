@@ -7,8 +7,8 @@
 
 ### Hi there I'm Achuan
 <div>
-   <img src = "https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true"  alt="Achuan-2's github stats" width = "50%" align = "left" style="display:inline-block">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html" alt="Achuan-2's top-langs" width = "44%" align = "right" style="display:inline-block">
+   <img src = "https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true"  alt="Achuan-2's github stats"  >
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html" alt="Achuan-2's top-langs"  >
 </div>
 <table>
 <tbody>
