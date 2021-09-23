@@ -10,11 +10,13 @@
 <a title="bilibili" target="_blank" href="https://space.bilibili.com/349243695"><img src="https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=555555&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349243695&logo=bilibili&longCache=true" ></a>
 </p>
 
-### Hi there I'm Achuan-2
+## 📈Statistics
 
+<div align="center">
 <span>&emsp;&emsp;</span>
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>&emsp;&emsp;</span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
+</div>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
@@ -22,13 +24,15 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=xcode" />
 </div>
 
+## 📺Social
+
 <table>
 <tbody>
-
    <tr>
        <td  valign="top" width="50%">
+
+### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
           
-#### 🤹‍♀️ [Recent Blog](https://achuan-2.top/)
 <!-- START_SECTION:blog -->
 * <a href='https://achuan-2.top/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
 * <a href='https://achuan-2.top/posts/f8bd.html' target='_blank'>无离线不笔记为什么我要放弃wolai，选择思源笔记？</a> - 2021-08-19
@@ -44,7 +48,7 @@
 </td>
        <td  valign="top" width="50%">
 
-#### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
+### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/30143702/' target='_blank'>想读JavaScript忍者秘籍（第2版）</a> - 2021-09-22
