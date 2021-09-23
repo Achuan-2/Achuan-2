@@ -48,7 +48,7 @@
 </td>
        <td  valign="top" width="50%">
 
-### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Movies</a>
+### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/30143702/' target='_blank'>想读JavaScript忍者秘籍（第2版）</a> - 2021-09-22
