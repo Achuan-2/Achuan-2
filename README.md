@@ -1,6 +1,7 @@
 <h1 align="center">
    <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
 </h1>
+
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/Achuan-2"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=181717&logo=github&longCache=true" ></a>
@@ -10,10 +11,17 @@
 </p>
 
 ### Hi there I'm Achuan-2
-<div>
-   <img src = "https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true"  alt="Achuan-2's github stats"  >
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html" alt="Achuan-2's top-langs"  >
+
+<span>&emsp;&emsp;</span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>&emsp;&emsp;</span><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=xcode" />
+</div>
+
 <table>
 <tbody>
 
