@@ -1,11 +1,15 @@
-
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?color=28696B&size=21&center=true&lines=%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE%EF%BC%8C%E9%97%AA%E9%97%AA%E5%8F%91%E4%BA%AE;Achuan-2+%E7%A5%9D%E4%BD%A0%E4%BB%8A%E6%97%A5%E6%84%89%E5%BF%AB" alt="typing-svg">
+</h1>
+<p align="center">
 <a title="Hits" target="_blank" href="https://github.com/Achuan-2/Achuan-2"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
-[![](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=181717&logo=github&longCache=true)](https://github.com/Achuan-2)
-[![](https://img.shields.io/badge/dynamic/json?labelColor=e71f19&color=040000&label=Weibo&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2139813304&logo=sina-weibo&longCache=true)](https://weibo.com/2139813304/profile)
-[![](https://img.shields.io/badge/dynamic/json?color=0e9ece&labelColor=131010&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&logo=zhihu&longCache=true)](https://www.zhihu.com/people/achuan-2)
-[![](https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=555555&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349243695&logo=bilibili&longCache=true)](https://space.bilibili.com/349243695)
+<a title="github" target="_blank" href="https://github.com/Achuan-2"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAchuan-2&labelColor=282c34&color=181717&logo=github&longCache=true" ></a>
+<a title="weibo" target="_blank" href="https://weibo.com/2139813304/profile"><img src="https://img.shields.io/badge/dynamic/json?labelColor=e71f19&color=040000&label=Weibo&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dweibo%26queryKey%3D2139813304&logo=sina-weibo&longCache=true" ></a>
+<a title="zhihu" target="_blank" href="https://www.zhihu.com/people/achuan-2"><img src="https://img.shields.io/badge/dynamic/json?color=0e9ece&labelColor=131010&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dachuan-2&logo=zhihu&longCache=true" ></a>
+<a title="bilibili" target="_blank" href="https://space.bilibili.com/349243695"><img src="https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=555555&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D349243695&logo=bilibili&longCache=true" ></a>
+</p>
 
-### Hi there I'm Achuan
+### Hi there I'm Achuan-2
 <div>
    <img src = "https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true"  alt="Achuan-2's github stats"  >
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=clark-cui&layout=compact&hide=html" alt="Achuan-2's top-langs"  >
