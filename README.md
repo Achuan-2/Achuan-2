@@ -51,6 +51,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26575937/' target='_blank'>看过楼下的房客</a> - 2021-09-25
 * <a href='https://book.douban.com/subject/30143702/' target='_blank'>想读JavaScript忍者秘籍（第2版）</a> - 2021-09-22
 * <a href='https://book.douban.com/subject/19952400/' target='_blank'>想读算法（第4版）</a> - 2021-09-22
 * <a href='https://book.douban.com/subject/33944838/' target='_blank'>读过考试脑科学</a> - 2021-09-13
@@ -60,7 +61,6 @@
 * <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看亲爱的，不要跨过那条江</a> - 2021-07-22
 * <a href='http://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2021-07-22
 * <a href='https://book.douban.com/subject/35503571/' target='_blank'>想读卡片笔记写作法</a> - 2021-07-18
-* <a href='https://book.douban.com/subject/30216624/' target='_blank'>想读How to Take Smart Notes</a> - 2021-07-17
 <!-- END_SECTION:douban -->
 </td>
         </tr>
