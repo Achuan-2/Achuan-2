@@ -4,7 +4,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron:  '0 8 * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
 #   build:
@@ -32,20 +32,4 @@ jobs:
           blog_limit: 10
           douban_name: sjx270992395
           douban_limit: 10
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
 
-    steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@master
-        with:
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: main
-          message: 'Generate Contribution Snake'
