@@ -25,10 +25,22 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-     # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake
+      - name: Social Readme
+        uses: zylele/social-readme@master
+        with:
+          blog_rss_link: https://achuan-2.top/atom.xml
+          blog_limit: 10
+          douban_name: sjx270992395
+          douban_limit: 10
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: ./assets/github-contribution-grid-snake.gif
-          svg_out_path: ./assets/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
