@@ -4,7 +4,7 @@ on:
   issues:
       types: [opened, edited, milestoned]
   schedule:
-    - cron:  '0 * * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
 #   build:
