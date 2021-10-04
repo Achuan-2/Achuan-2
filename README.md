@@ -34,7 +34,7 @@
    <tr>
        <td  valign="top" width="50%">
 
-### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
+### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
 * <a href='https://achuan-2.top/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
