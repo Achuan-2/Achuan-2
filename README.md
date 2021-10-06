@@ -53,6 +53,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1473074/' target='_blank'>看过古惑仔2之猛龙过江</a> - 2021-10-05
 * <a href='http://movie.douban.com/subject/1433736/' target='_blank'>看过古惑仔之人在江湖</a> - 2021-10-02
 * <a href='http://movie.douban.com/subject/26575937/' target='_blank'>看过楼下的房客</a> - 2021-09-25
 * <a href='https://book.douban.com/subject/30143702/' target='_blank'>想读JavaScript忍者秘籍（第2版）</a> - 2021-09-22
@@ -62,7 +63,6 @@
 * <a href='https://book.douban.com/subject/26952718/' target='_blank'>读过好好学习</a> - 2021-08-04
 * <a href='http://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2021-07-22
 * <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看亲爱的，不要跨过那条江</a> - 2021-07-22
-* <a href='http://movie.douban.com/subject/1292233/' target='_blank'>看过发条橙</a> - 2021-07-22
 <!-- END_SECTION:douban -->
 </td>
         </tr>
