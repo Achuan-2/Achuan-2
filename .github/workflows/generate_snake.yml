@@ -9,7 +9,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron:  '0 16,0,8 * * *'
+    - cron:  '0 16,4 * * *'
   
 
 jobs:
