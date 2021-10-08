@@ -36,6 +36,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/be43.html' target='_blank'>Windows下的Git Bash配置，提升你的终端操作体验</a> - 2021-10-07
 * <a href='https://achuan-2.github.io/posts/8dd0.html' target='_blank'>Github Profile Readme美化效果汇总</a> - 2021-10-04
 * <a href='https://achuan-2.github.io/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
 * <a href='https://achuan-2.github.io/posts/b8c8.html' target='_blank'>GitHub 提交代码时 emoji 表情的使用</a> - 2021-08-11
@@ -52,6 +53,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1301283/' target='_blank'>看过古惑仔3之只手遮天</a> - 2021-10-07
 * <a href='http://movie.douban.com/subject/1473074/' target='_blank'>看过古惑仔2之猛龙过江</a> - 2021-10-05
 * <a href='http://movie.douban.com/subject/1433736/' target='_blank'>看过古惑仔之人在江湖</a> - 2021-10-02
 * <a href='http://movie.douban.com/subject/26575937/' target='_blank'>看过楼下的房客</a> - 2021-09-25
@@ -61,7 +63,6 @@
 * <a href='https://book.douban.com/subject/10786473/' target='_blank'>读过自控力</a> - 2021-09-07
 * <a href='https://book.douban.com/subject/26952718/' target='_blank'>读过好好学习</a> - 2021-08-04
 * <a href='http://movie.douban.com/subject/2123439/' target='_blank'>想看人生七年1</a> - 2021-07-22
-* <a href='http://movie.douban.com/subject/25978207/' target='_blank'>想看亲爱的，不要跨过那条江</a> - 2021-07-22
 <!-- END_SECTION:douban -->
 </td>
         </tr>
