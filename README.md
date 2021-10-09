@@ -38,16 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
-* <a href='https://achuan-2.github.io/posts/be43.html' target='_blank'>Windows下的Git Bash配置，提升你的终端操作体验</a> - 2021-10-07
-* <a href='https://achuan-2.github.io/posts/8dd0.html' target='_blank'>Github Profile Readme美化效果汇总</a> - 2021-10-04
-* <a href='https://achuan-2.github.io/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
-* <a href='https://achuan-2.github.io/posts/b8c8.html' target='_blank'>GitHub 提交代码时 emoji 表情的使用</a> - 2021-08-11
-* <a href='https://achuan-2.github.io/posts/e98d.html' target='_blank'>不发朋友圈的人</a> - 2021-06-17
-* <a href='https://achuan-2.github.io/posts/80a3.html' target='_blank'>外公再见</a> - 2021-06-17
-* <a href='https://achuan-2.github.io/posts/80ed.html' target='_blank'>爷爷再见</a> - 2021-06-17
-* <a href='https://achuan-2.github.io/posts/23b2.html' target='_blank'>小熊的独白</a> - 2021-06-17
-* <a href='https://achuan-2.github.io/posts/a881.html' target='_blank'>阿巛的Hexo博客搭建</a> - 2020-11-15
-* <a href='https://achuan-2.github.io/posts/c134.html' target='_blank'>The Python Challenge Daily Record</a> - 2020-11-14
+
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
