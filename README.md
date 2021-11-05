@@ -55,6 +55,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1417598/' target='_blank'>看过电锯惊魂</a> - 2021-11-04
 * <a href='http://movie.douban.com/subject/1305046/' target='_blank'>看过双瞳</a> - 2021-10-29
 * <a href='http://movie.douban.com/subject/2149806/' target='_blank'>想看入殓师</a> - 2021-10-29
 * <a href='https://book.douban.com/subject/4822685/' target='_blank'>想读编码</a> - 2021-10-25
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/1292348/' target='_blank'>看过洛城机密</a> - 2021-10-16
 * <a href='http://movie.douban.com/subject/1301283/' target='_blank'>看过古惑仔3之只手遮天</a> - 2021-10-07
 * <a href='http://movie.douban.com/subject/1473074/' target='_blank'>看过古惑仔2之猛龙过江</a> - 2021-10-05
-* <a href='http://movie.douban.com/subject/1433736/' target='_blank'>看过古惑仔之人在江湖</a> - 2021-10-02
 <!-- END_SECTION:douban -->
 </td>
         </tr>
