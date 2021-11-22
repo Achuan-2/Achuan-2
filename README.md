@@ -55,6 +55,9 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
+* <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
+* <a href='https://book.douban.com/subject/1054685/' target='_blank'>读过沉默的大多数</a> - 2021-11-21
 * <a href='http://movie.douban.com/subject/1895120/' target='_blank'>看过死寂</a> - 2021-11-19
 * <a href='http://movie.douban.com/subject/24860563/' target='_blank'>看过招魂2</a> - 2021-11-07
 * <a href='http://movie.douban.com/subject/3804629/' target='_blank'>看过招魂</a> - 2021-11-07
@@ -62,9 +65,6 @@
 * <a href='http://movie.douban.com/subject/1305046/' target='_blank'>看过双瞳</a> - 2021-10-29
 * <a href='http://movie.douban.com/subject/2149806/' target='_blank'>想看入殓师</a> - 2021-10-29
 * <a href='https://book.douban.com/subject/4822685/' target='_blank'>想读编码</a> - 2021-10-25
-* <a href='https://book.douban.com/subject/35390276/' target='_blank'>读过如何成为不完美主义者</a> - 2021-10-25
-* <a href='http://movie.douban.com/subject/10512661/' target='_blank'>看过银翼杀手2049</a> - 2021-10-24
-* <a href='http://movie.douban.com/subject/24695277/' target='_blank'>看过一个人的武林</a> - 2021-10-16
 <!-- END_SECTION:douban -->
 </td>
         </tr>
