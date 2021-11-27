@@ -55,6 +55,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
 * <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
 * <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
 * <a href='https://book.douban.com/subject/1054685/' target='_blank'>读过沉默的大多数</a> - 2021-11-21
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/1417598/' target='_blank'>看过电锯惊魂</a> - 2021-11-04
 * <a href='http://movie.douban.com/subject/1305046/' target='_blank'>看过双瞳</a> - 2021-10-29
 * <a href='http://movie.douban.com/subject/2149806/' target='_blank'>想看入殓师</a> - 2021-10-29
-* <a href='https://book.douban.com/subject/4822685/' target='_blank'>想读编码</a> - 2021-10-25
 <!-- END_SECTION:douban -->
 </td>
         </tr>
