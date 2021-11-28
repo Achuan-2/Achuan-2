@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/6f52.html' target='_blank'>网卡驱动问题：Intel(R) Wireless-AC 9462</a> - 2021-11-27
 * <a href='https://achuan-2.github.io/posts/b2e.html' target='_blank'>《心动的信号》——可能是对我影响最深远的综艺</a> - 2021-11-23
 * <a href='https://achuan-2.github.io/posts/aa22.html' target='_blank'>Windows 在终端启动软件查看文件</a> - 2021-10-21
 * <a href='https://achuan-2.github.io/posts/c83a.html' target='_blank'>Windows 资源管理器地址栏的妙用</a> - 2021-10-21
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/8dd0.html' target='_blank'>Github Profile Readme美化效果汇总</a> - 2021-10-04
 * <a href='https://achuan-2.github.io/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
 * <a href='https://achuan-2.github.io/posts/b8c8.html' target='_blank'>GitHub 提交代码时 emoji 表情的使用</a> - 2021-08-11
-* <a href='https://achuan-2.github.io/posts/e98d.html' target='_blank'>不发朋友圈的人</a> - 2021-06-17
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
