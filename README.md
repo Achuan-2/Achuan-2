@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/2e6c.html' target='_blank'>python| RNA翻译为蛋白质</a> - 2021-11-28
 * <a href='https://achuan-2.github.io/posts/6f52.html' target='_blank'>网卡驱动问题：Intel(R) Wireless-AC 9462</a> - 2021-11-27
 * <a href='https://achuan-2.github.io/posts/b2e.html' target='_blank'>《心动的信号》——可能是对我影响最深远的综艺</a> - 2021-11-23
 * <a href='https://achuan-2.github.io/posts/aa22.html' target='_blank'>Windows 在终端启动软件查看文件</a> - 2021-10-21
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/be43.html' target='_blank'>Windows下的Git Bash配置，提升你的终端操作体验</a> - 2021-10-07
 * <a href='https://achuan-2.github.io/posts/8dd0.html' target='_blank'>Github Profile Readme美化效果汇总</a> - 2021-10-04
 * <a href='https://achuan-2.github.io/posts/840d.html' target='_blank'>解决使用代理时 Win10 UWP 应用无法联网问题</a> - 2021-09-20
-* <a href='https://achuan-2.github.io/posts/b8c8.html' target='_blank'>GitHub 提交代码时 emoji 表情的使用</a> - 2021-08-11
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -55,6 +55,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/3230459/' target='_blank'>想看李米的猜想</a> - 2021-11-28
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
 * <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
 * <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/3804629/' target='_blank'>看过招魂</a> - 2021-11-07
 * <a href='http://movie.douban.com/subject/1417598/' target='_blank'>看过电锯惊魂</a> - 2021-11-04
 * <a href='http://movie.douban.com/subject/1305046/' target='_blank'>看过双瞳</a> - 2021-10-29
-* <a href='http://movie.douban.com/subject/2149806/' target='_blank'>想看入殓师</a> - 2021-10-29
 <!-- END_SECTION:douban -->
 </td>
         </tr>
