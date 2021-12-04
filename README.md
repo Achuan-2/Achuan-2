@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/1971.html' target='_blank'>为Hexo 博客添加脚注功能</a> - 2021-12-03
 * <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2021-11-30
 * <a href='https://achuan-2.github.io/posts/2e6c.html' target='_blank'>python| RNA翻译为蛋白质</a> - 2021-11-28
 * <a href='https://achuan-2.github.io/posts/6f52.html' target='_blank'>网卡驱动问题：Intel(R) Wireless-AC 9462</a> - 2021-11-27
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/e5b8.html' target='_blank'>总结:如何获取网站的 favicon</a> - 2021-10-21
 * <a href='https://achuan-2.github.io/posts/4491.html' target='_blank'>番外：Markdown的完整图片语法</a> - 2021-10-14
 * <a href='https://achuan-2.github.io/posts/be43.html' target='_blank'>Windows下的Git Bash配置，提升你的终端操作体验</a> - 2021-10-07
-* <a href='https://achuan-2.github.io/posts/8dd0.html' target='_blank'>Github Profile Readme美化效果汇总</a> - 2021-10-04
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -55,6 +55,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1：JavaScript 快速上手</a> - 2021-12-03
 * <a href='http://movie.douban.com/subject/3230459/' target='_blank'>想看李米的猜想</a> - 2021-11-28
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
 * <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/24860563/' target='_blank'>看过招魂2</a> - 2021-11-07
 * <a href='http://movie.douban.com/subject/3804629/' target='_blank'>看过招魂</a> - 2021-11-07
 * <a href='http://movie.douban.com/subject/1417598/' target='_blank'>看过电锯惊魂</a> - 2021-11-04
-* <a href='http://movie.douban.com/subject/1305046/' target='_blank'>看过双瞳</a> - 2021-10-29
 <!-- END_SECTION:douban -->
 </td>
         </tr>
