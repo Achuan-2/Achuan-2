@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/3f27.html' target='_blank'>用 VSCode 写 R代码</a> - 2021-12-04
 * <a href='https://achuan-2.github.io/posts/1971.html' target='_blank'>为Hexo 博客添加脚注功能</a> - 2021-12-03
 * <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2021-11-30
 * <a href='https://achuan-2.github.io/posts/2e6c.html' target='_blank'>python| RNA翻译为蛋白质</a> - 2021-11-28
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/c83a.html' target='_blank'>Windows 资源管理器地址栏的妙用</a> - 2021-10-21
 * <a href='https://achuan-2.github.io/posts/e5b8.html' target='_blank'>总结:如何获取网站的 favicon</a> - 2021-10-21
 * <a href='https://achuan-2.github.io/posts/4491.html' target='_blank'>番外：Markdown的完整图片语法</a> - 2021-10-14
-* <a href='https://achuan-2.github.io/posts/be43.html' target='_blank'>Windows下的Git Bash配置，提升你的终端操作体验</a> - 2021-10-07
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
