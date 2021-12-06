@@ -38,6 +38,8 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/4a17.html' target='_blank'>本地 git 仓库如何上传到 Github</a> - 2021-12-05
+* <a href='https://achuan-2.github.io/posts/ae74.html' target='_blank'>用 R 可视化 睡眠时间</a> - 2021-12-05
 * <a href='https://achuan-2.github.io/posts/3f27.html' target='_blank'>用 VSCode 写 R代码</a> - 2021-12-04
 * <a href='https://achuan-2.github.io/posts/1971.html' target='_blank'>为Hexo 博客添加脚注功能</a> - 2021-12-03
 * <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2021-11-30
@@ -46,8 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/b2e.html' target='_blank'>《心动的信号》——可能是对我影响最深远的综艺</a> - 2021-11-23
 * <a href='https://achuan-2.github.io/posts/aa22.html' target='_blank'>Windows 在终端启动软件查看文件</a> - 2021-10-21
 * <a href='https://achuan-2.github.io/posts/c83a.html' target='_blank'>Windows 资源管理器地址栏的妙用</a> - 2021-10-21
-* <a href='https://achuan-2.github.io/posts/e5b8.html' target='_blank'>总结:如何获取网站的 favicon</a> - 2021-10-21
-* <a href='https://achuan-2.github.io/posts/4491.html' target='_blank'>番外：Markdown的完整图片语法</a> - 2021-10-14
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -55,8 +55,8 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/3230459/' target='_blank'>看过李米的猜想</a> - 2021-12-05
 * <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1：JavaScript 快速上手</a> - 2021-12-03
-* <a href='http://movie.douban.com/subject/3230459/' target='_blank'>想看李米的猜想</a> - 2021-11-28
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
 * <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
 * <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
