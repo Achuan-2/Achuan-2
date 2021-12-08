@@ -55,6 +55,7 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='https://book.douban.com/subject/30192800/' target='_blank'>想读Python神经网络编程</a> - 2021-12-07
 * <a href='http://movie.douban.com/subject/3230459/' target='_blank'>看过李米的猜想</a> - 2021-12-05
 * <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1：JavaScript 快速上手</a> - 2021-12-03
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/1895120/' target='_blank'>看过死寂</a> - 2021-11-19
 * <a href='http://movie.douban.com/subject/24860563/' target='_blank'>看过招魂2</a> - 2021-11-07
 * <a href='http://movie.douban.com/subject/3804629/' target='_blank'>看过招魂</a> - 2021-11-07
-* <a href='http://movie.douban.com/subject/1417598/' target='_blank'>看过电锯惊魂</a> - 2021-11-04
 <!-- END_SECTION:douban -->
 </td>
         </tr>
