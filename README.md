@@ -12,6 +12,10 @@
 
 </p>
 
+## 🥱About me
+
+- Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
+
 ## 📈Statistics
 
 <div align="center">
@@ -23,6 +27,7 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
+
 ## 📺Social
 
 <table>
