@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/b0fc.html' target='_blank'>使用 Python 爬取豆瓣电影 Top250 信息并进行分析</a> - 2022-01-25
 * <a href='https://achuan-2.github.io/posts/2276.html' target='_blank'>阿尔茨海默症患者肠道菌群16S 测序数据分析</a> - 2022-01-06
 * <a href='https://achuan-2.github.io/posts/97ba.html' target='_blank'>Hexo 博客 Butterfly 支持 KaTex</a> - 2021-12-18
 * <a href='https://achuan-2.github.io/posts/cd97.html' target='_blank'>《白话机器学习的数学》笔记</a> - 2021-12-18
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/3f27.html' target='_blank'>用 VSCode 写 R代码</a> - 2021-12-04
 * <a href='https://achuan-2.github.io/posts/1971.html' target='_blank'>为Hexo 博客添加脚注功能</a> - 2021-12-03
 * <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2021-11-30
-* <a href='https://achuan-2.github.io/posts/2e6c.html' target='_blank'>python| RNA翻译为蛋白质</a> - 2021-11-28
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
