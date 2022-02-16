@@ -37,6 +37,8 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/79be.html' target='_blank'>【生信项目】 反刍动物消化道挖掘NCLDV病毒，我的第二个毕设题目又前功尽弃了！</a> - 2022-02-15
+* <a href='https://achuan-2.github.io/posts/b64.html' target='_blank'>【月总结】2022.1 课程设计/科目三/毕设第三次换题/尤克里里/同学聚会/想当Up主</a> - 2022-02-15
 * <a href='https://achuan-2.github.io/posts/b0fc.html' target='_blank'>使用 Python 爬取豆瓣电影 Top250 信息并进行分析</a> - 2022-01-25
 * <a href='https://achuan-2.github.io/posts/2276.html' target='_blank'>阿尔茨海默症患者肠道菌群16S 测序数据分析</a> - 2022-01-06
 * <a href='https://achuan-2.github.io/posts/97ba.html' target='_blank'>Hexo 博客 Butterfly 支持 KaTex</a> - 2021-12-18
@@ -45,8 +47,6 @@
 * <a href='https://achuan-2.github.io/posts/4a17.html' target='_blank'>本地 git 仓库如何上传到 Github</a> - 2021-12-05
 * <a href='https://achuan-2.github.io/posts/ae74.html' target='_blank'>用 R 可视化 睡眠时间</a> - 2021-12-05
 * <a href='https://achuan-2.github.io/posts/3f27.html' target='_blank'>用 VSCode 写 R代码</a> - 2021-12-04
-* <a href='https://achuan-2.github.io/posts/1971.html' target='_blank'>为Hexo 博客添加脚注功能</a> - 2021-12-03
-* <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2021-11-30
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
@@ -60,7 +60,7 @@
 * <a href='https://book.douban.com/subject/35126508/' target='_blank'>读过白话机器学习的数学</a> - 2021-12-18
 * <a href='https://book.douban.com/subject/30192800/' target='_blank'>想读Python神经网络编程</a> - 2021-12-07
 * <a href='http://movie.douban.com/subject/3230459/' target='_blank'>看过李米的猜想</a> - 2021-12-05
-* <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1：JavaScript 快速上手</a> - 2021-12-03
+* <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1</a> - 2021-12-03
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
 * <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
 * <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
