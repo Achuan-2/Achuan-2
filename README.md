@@ -54,6 +54,8 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1306951/' target='_blank'>看过鹿鼎记2：神龙教</a> - 2022-02-20
+* <a href='http://movie.douban.com/subject/1297223/' target='_blank'>看过鹿鼎记</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/34930807/' target='_blank'>看过今生有你</a> - 2022-02-02
 * <a href='https://book.douban.com/subject/1789841/' target='_blank'>读过倚天屠龙记</a> - 2022-01-04
 * <a href='http://movie.douban.com/subject/26351864/' target='_blank'>想看风林火山</a> - 2021-12-27
@@ -62,8 +64,6 @@
 * <a href='http://movie.douban.com/subject/3230459/' target='_blank'>看过李米的猜想</a> - 2021-12-05
 * <a href='https://book.douban.com/subject/34897710/' target='_blank'>读过从0到1</a> - 2021-12-03
 * <a href='https://book.douban.com/subject/1318904/' target='_blank'>想读话说基因</a> - 2021-11-26
-* <a href='http://movie.douban.com/subject/35236752/' target='_blank'>看过心动的信号 第四季</a> - 2021-11-21
-* <a href='http://movie.douban.com/subject/30458142/' target='_blank'>看过心动的信号 第二季</a> - 2021-11-21
 <!-- END_SECTION:douban -->
 </td>
         </tr>
