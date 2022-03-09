@@ -12,7 +12,7 @@
 
 ## 🥱About me
 
-- Name: Achuan-2/Tron/Jixiong Su
+- Name: Achuan-2/Jixiong Su
 - Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
 
 ## 📈Statistics
