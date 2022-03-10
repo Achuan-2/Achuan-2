@@ -54,9 +54,9 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2022-03-09
 * <a href='http://movie.douban.com/subject/1307956/' target='_blank'>看过死神来了2</a> - 2022-02-26
 * <a href='http://movie.douban.com/subject/1300300/' target='_blank'>看过死神来了</a> - 2022-02-26
-* <a href='http://movie.douban.com/subject/34874432/' target='_blank'>想看花束般的恋爱</a> - 2022-02-26
 * <a href='http://movie.douban.com/subject/1306951/' target='_blank'>看过鹿鼎记2：神龙教</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/1297223/' target='_blank'>看过鹿鼎记</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/34930807/' target='_blank'>看过今生有你</a> - 2022-02-02
