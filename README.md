@@ -37,6 +37,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/4ac0.html' target='_blank'>【月总结】2022.02 回武汉/毕设第三个题目/毕业衫设计/重温python</a> - 2022-03-12
 * <a href='https://achuan-2.github.io/posts/79be.html' target='_blank'>【生信项目】 反刍动物消化道挖掘NCLDV病毒，我的第二个毕设题目又前功尽弃了！</a> - 2022-02-15
 * <a href='https://achuan-2.github.io/posts/b64.html' target='_blank'>【月总结】2022.1 课程设计/科目三/毕设第三次换题/尤克里里/同学聚会/想当Up主</a> - 2022-02-15
 * <a href='https://achuan-2.github.io/posts/b0fc.html' target='_blank'>使用 Python 爬取豆瓣电影 Top250 信息并进行分析</a> - 2022-01-25
@@ -46,7 +47,6 @@
 * <a href='https://achuan-2.github.io/posts/1256.html' target='_blank'>代理设置</a> - 2021-12-17
 * <a href='https://achuan-2.github.io/posts/4a17.html' target='_blank'>本地 git 仓库如何上传到 Github</a> - 2021-12-05
 * <a href='https://achuan-2.github.io/posts/ae74.html' target='_blank'>用 R 可视化 睡眠时间</a> - 2021-12-05
-* <a href='https://achuan-2.github.io/posts/3f27.html' target='_blank'>用 VSCode 写 R代码</a> - 2021-12-04
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
