@@ -54,6 +54,8 @@
 ### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/1293607/' target='_blank'>看过算死草</a> - 2022-03-14
+* <a href='http://movie.douban.com/subject/1305355/' target='_blank'>看过审死官</a> - 2022-03-14
 * <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2022-03-09
 * <a href='http://movie.douban.com/subject/1307956/' target='_blank'>看过死神来了2</a> - 2022-02-26
 * <a href='http://movie.douban.com/subject/1300300/' target='_blank'>看过死神来了</a> - 2022-02-26
@@ -62,8 +64,6 @@
 * <a href='http://movie.douban.com/subject/34930807/' target='_blank'>看过今生有你</a> - 2022-02-02
 * <a href='https://book.douban.com/subject/1789841/' target='_blank'>读过倚天屠龙记</a> - 2022-01-04
 * <a href='http://movie.douban.com/subject/26351864/' target='_blank'>想看风林火山</a> - 2021-12-27
-* <a href='https://book.douban.com/subject/35126508/' target='_blank'>读过白话机器学习的数学</a> - 2021-12-18
-* <a href='https://book.douban.com/subject/30192800/' target='_blank'>想读Python神经网络编程</a> - 2021-12-07
 <!-- END_SECTION:douban -->
 </td>
         </tr>
