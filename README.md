@@ -13,6 +13,7 @@
 ## 🥱About me
 
 - Name: Achuan-2/Jixiong Su
+- Hometown: Ningde, Fujian Province in China
 - Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
 
 ## 📈Statistics
