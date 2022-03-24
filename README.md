@@ -13,7 +13,7 @@
 ## 🥱About me
 
 - Name: Achuan-2/Jixiong Su
-- Hometown: Ningde, Fujian Province in China
+- Hometown: Ningde/Quanzhou, Fujian Province in China
 - Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
 
 ## 📈Statistics
@@ -52,7 +52,7 @@
 </td>
        <td  valign="top" width="50%">
 
-### 🎥 <a href="https://www.douban.com/people/sjx270992395/" target="_blank">Douban</a>
+### <a href="https://www.douban.com/people/sjx270992395/" target="_blank"><img src="https://user-images.githubusercontent.com/60436214/159824126-0d863933-d798-47d5-ad4c-8de1c77cb16c.png" style="width:25px;vertical-align:middle;" >Douban</a>
 
 <!-- START_SECTION:douban -->
 * <a href='http://movie.douban.com/subject/1293607/' target='_blank'>看过算死草</a> - 2022-03-14
