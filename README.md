@@ -38,6 +38,7 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
           
 <!-- START_SECTION:blog -->
+* <a href='https://achuan-2.github.io/posts/4924.html' target='_blank'>【Monthly Letter】2022.03月-毕设搞定数据库|科目三|计算机四级|每周充电计划|东航失事|如果快乐太难，那祝你平安</a> - 2022-04-06
 * <a href='https://achuan-2.github.io/posts/b673.html' target='_blank'>如何废掉一个大学生</a> - 2022-03-24
 * <a href='https://achuan-2.github.io/posts/5fb5.html' target='_blank'>裂痕，光照进来的地方</a> - 2022-03-24
 * <a href='https://achuan-2.github.io/posts/4ac0.html' target='_blank'>【月总结】2022.02 回武汉/毕设第三个题目/毕业衫设计/重温python</a> - 2022-03-12
@@ -47,7 +48,6 @@
 * <a href='https://achuan-2.github.io/posts/2276.html' target='_blank'>阿尔茨海默症患者肠道菌群16S 测序数据分析</a> - 2022-01-06
 * <a href='https://achuan-2.github.io/posts/97ba.html' target='_blank'>Hexo 博客 Butterfly 支持 KaTex</a> - 2021-12-18
 * <a href='https://achuan-2.github.io/posts/cd97.html' target='_blank'>《白话机器学习的数学》笔记</a> - 2021-12-18
-* <a href='https://achuan-2.github.io/posts/1256.html' target='_blank'>代理设置</a> - 2021-12-17
 <!-- END_SECTION:blog -->
 </td>
        <td  valign="top" width="50%">
