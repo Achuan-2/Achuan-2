@@ -55,6 +55,8 @@
 ### <a href="https://www.douban.com/people/sjx270992395/" target="_blank"><img src="https://user-images.githubusercontent.com/60436214/159824126-0d863933-d798-47d5-ad4c-8de1c77cb16c.png" style="width:25px;vertical-align:middle;" >Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/26270502/' target='_blank'>看过绣春刀II：修罗战场</a> - 2022-05-30
+* <a href='http://movie.douban.com/subject/24745500/' target='_blank'>看过绣春刀</a> - 2022-05-30
 * <a href='http://movie.douban.com/subject/1293607/' target='_blank'>看过算死草</a> - 2022-03-14
 * <a href='http://movie.douban.com/subject/1305355/' target='_blank'>看过审死官</a> - 2022-03-14
 * <a href='http://movie.douban.com/subject/34874432/' target='_blank'>看过花束般的恋爱</a> - 2022-03-09
@@ -63,8 +65,6 @@
 * <a href='http://movie.douban.com/subject/1306951/' target='_blank'>看过鹿鼎记2：神龙教</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/1297223/' target='_blank'>看过鹿鼎记</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/34930807/' target='_blank'>看过今生有你</a> - 2022-02-02
-* <a href='https://book.douban.com/subject/1789841/' target='_blank'>读过倚天屠龙记</a> - 2022-01-04
-* <a href='http://movie.douban.com/subject/26351864/' target='_blank'>想看风林火山</a> - 2021-12-27
 <!-- END_SECTION:douban -->
 </td>
         </tr>
