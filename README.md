@@ -55,6 +55,7 @@
 ### <a href="https://www.douban.com/people/sjx270992395/" target="_blank"><img src="https://user-images.githubusercontent.com/60436214/159824126-0d863933-d798-47d5-ad4c-8de1c77cb16c.png" style="width:25px;vertical-align:middle;" >Douban</a>
 
 <!-- START_SECTION:douban -->
+* <a href='http://movie.douban.com/subject/35231822/' target='_blank'>看过梦华录</a> - 2022-06-05
 * <a href='http://movie.douban.com/subject/26270502/' target='_blank'>看过绣春刀II：修罗战场</a> - 2022-05-30
 * <a href='http://movie.douban.com/subject/24745500/' target='_blank'>看过绣春刀</a> - 2022-05-30
 * <a href='http://movie.douban.com/subject/1293607/' target='_blank'>看过算死草</a> - 2022-03-14
@@ -64,7 +65,6 @@
 * <a href='http://movie.douban.com/subject/1300300/' target='_blank'>看过死神来了</a> - 2022-02-26
 * <a href='http://movie.douban.com/subject/1306951/' target='_blank'>看过鹿鼎记2：神龙教</a> - 2022-02-20
 * <a href='http://movie.douban.com/subject/1297223/' target='_blank'>看过鹿鼎记</a> - 2022-02-20
-* <a href='http://movie.douban.com/subject/34930807/' target='_blank'>看过今生有你</a> - 2022-02-02
 <!-- END_SECTION:douban -->
 </td>
         </tr>
