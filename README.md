@@ -15,6 +15,12 @@
 - Name: Achuan-2/Jixiong Su
 - Hometown: Ningde/Quanzhou, Fujian Province in China
 - Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
+- Project
+   - [Achuan-2/Splicing-Sites-Predicter](https://github.com/Achuan-2/Splicing-Sites-Predicter)
+   - [Achuan-2/Alzheimer_16S_analysis](https://github.com/Achuan-2/Alzheimer_16S_analysis)
+   - [Achuan-2/ncldv_recover](https://github.com/Achuan-2/ncldv_recover)
+   - [Achuan-2/phage-host](https://github.com/Achuan-2/phage-host)
+
 
 ## 📈Statistics
 
