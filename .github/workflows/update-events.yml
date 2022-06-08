@@ -1,35 +1,35 @@
-name: Update events
+# name: Update events
 
-on:
-  issues:
-      types: [opened, edited, milestoned]
-  schedule:
-    - cron:  '0 0 * * *'
+# on:
+#   issues:
+#       types: [opened, edited, milestoned]
+#   schedule:
+#     - cron:  '0 0 * * *'
 
-jobs:
-#   build:
+# jobs:
+# #   build:
+# #     runs-on: ubuntu-latest
+
+# #     steps:
+# #     - name: Check out repo
+# #       uses: actions/checkout@v2
+# #     - uses: actions/setup-go@v2
+# #     - name: Fetch events
+# #       run: go run main.go
+# #     - name: Commit and push
+# #       run: |-
+# #         git config --global user.email "bot@github.com" && git config --global user.name "Bot"
+# #         git diff
+# #         git add . && git commit -m ":memo: 更新自述" || exit 0
+# #         git push
+#   update-social:
 #     runs-on: ubuntu-latest
-
 #     steps:
-#     - name: Check out repo
-#       uses: actions/checkout@v2
-#     - uses: actions/setup-go@v2
-#     - name: Fetch events
-#       run: go run main.go
-#     - name: Commit and push
-#       run: |-
-#         git config --global user.email "bot@github.com" && git config --global user.name "Bot"
-#         git diff
-#         git add . && git commit -m ":memo: 更新自述" || exit 0
-#         git push
-  update-social:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Social Readme
-        uses: zylele/social-readme@master
-        with:
-          blog_rss_link: https://achuan-2.github.io/atom.xml
-          blog_limit: 10
-          douban_name: sjx270992395
-          douban_limit: 10
+#       - name: Social Readme
+#         uses: zylele/social-readme@master
+#         with:
+#           blog_rss_link: https://achuan-2.github.io/atom.xml
+#           blog_limit: 10
+#           douban_name: sjx270992395
+#           douban_limit: 10
 
