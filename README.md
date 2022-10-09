@@ -6,7 +6,7 @@
 ## 🥱About me
 
 - Name: Jixiong Su
-- Nickname：Achuan-2
+- Nickname：Achuan-2（Tron)
 - Hometown: Ningde/Quanzhou, Fujian Province in China
 - Educational experience
    - Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology
