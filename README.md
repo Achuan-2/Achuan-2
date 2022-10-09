@@ -5,9 +5,11 @@
 
 ## 🥱About me
 
-- Name: Achuan-2/Jixiong Su
+- Name: Jixiong Su
+- Nickname：Achuan-2
 - Hometown: Ningde/Quanzhou, Fujian Province in China
-- Undergraduate(2018.9-2022.6): Bioinfomatics, Huazhong University of Science and Technology
+- Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology
+- Postgraduate(2022.9-Now): Neurobiology, Fudan University
 - Project
    - [Achuan-2/Splicing-Sites-Predicter](https://github.com/Achuan-2/Splicing-Sites-Predicter)
    - [Achuan-2/Alzheimer_16S_analysis](https://github.com/Achuan-2/Alzheimer_16S_analysis)
