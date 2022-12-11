@@ -10,7 +10,7 @@
 - Hometown: Ningde/Quanzhou, Fujian Province in China
 - Educational experience
    - Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology
-   - Postgraduate(2022.9-Now): Neurobiology, Fudan University
+   - Postgraduate(2022.9-Now): Neuroscience, Fudan University
 - Project
    - [Achuan-2/Splicing-Sites-Predicter](https://github.com/Achuan-2/Splicing-Sites-Predicter)
    - [Achuan-2/Alzheimer_16S_analysis](https://github.com/Achuan-2/Alzheimer_16S_analysis)
