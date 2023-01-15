@@ -37,3 +37,7 @@
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
+
+### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
