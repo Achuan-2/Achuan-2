@@ -29,14 +29,10 @@
 ## 📈Statistics
 
 <div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achuan-2" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achuan-2" />
 </div>
 
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
-</div>
+
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
