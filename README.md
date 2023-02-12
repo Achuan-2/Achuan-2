@@ -25,7 +25,7 @@
    - [Achuan-2/ncldv_recover](https://github.com/Achuan-2/ncldv_recover)
    - [Achuan-2/phage-host](https://github.com/Achuan-2/phage-host)
    - [Achuan-2/unity_mouse_vr](https://github.com/Achuan-2/unity_mouse_vr)
-   - [Achuan-2/siyuan-themes-tsundoku-light](https://github.com/Achuan-2/siyuan-themes-tsundoku-light)
+   - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku)
 
 
 ## 📈Statistics
