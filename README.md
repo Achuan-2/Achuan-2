@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [巨蟹座的独白](http://achuan-2.top/post/cancer-s-monologue-glnza.html)
 - [阿巛对信息时代整理信息的经验浅谈](http://achuan-2.top/post/grandma-s-experience-of-sorting-information-in-the-information-era-1ep3ij.html)
 - [Groupy多窗口管理工具](http://achuan-2.top/post/groupy-multi-window-management-tool-zzu1s2.html)
 - [安装mambaforge](http://achuan-2.top/post/mabaforge.html)
 - [Quarto：Markdown 又何必只是 Markdown](http://achuan-2.top/posts/50f47788.html)
-- [设置word模板，Markdown 也能自动转换为美观规范的 Word 文档](http://achuan-2.top/posts/bc4b56d9.html)
 <!-- BLOG-POST-LIST:END -->
