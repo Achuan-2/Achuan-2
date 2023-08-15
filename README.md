@@ -38,8 +38,8 @@
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
 - [23岁啦！](http://achuan-2.top/post/23-years-old-zggy4y.html)
+- [我终于清空朋友圈啦！](http://achuan-2.top/post/i-finally-empty-the-circle-of-friends-oko3o.html)
 - [VSCode 配置 matlab 运行环境](http://achuan-2.top/post/vscode-configuration-matlab-operating-environment-z7bakt.html)
 - [巨蟹座的独白](http://achuan-2.top/posts/c873b400.html)
 - [阿巛对信息时代整理信息的经验浅谈](http://achuan-2.top/posts/d766b22.html)
-- [安装mambaforge](http://achuan-2.top/posts/c6467c9c.html)
 <!-- BLOG-POST-LIST:END -->
