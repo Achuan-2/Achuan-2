@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [使用 Vercel 自动部署 hexo 博客](http://achuan-2.top/posts/f5348a5e.html)
 - [如何用ABBYY和Acrobat 给图书扫描版pdf添加书签和目录跳转](http://achuan-2.top/posts/34aeefad.html)
 - [关于等待力和秩序感的思考](http://achuan-2.top/post/thinking-about-waiting-power-and-order-f3swz.html)
 - [一只23岁母单的反思](http://achuan-2.top/post/a-mother-s-reflection-z17orfm.html)
 - [我终于清空朋友圈啦！](http://achuan-2.top/post/i-finally-empty-the-circle-of-friends-oko3o.html)
-- [23岁啦](http://achuan-2.top/post/23-years-old-zggy4y.html)
 <!-- BLOG-POST-LIST:END -->
