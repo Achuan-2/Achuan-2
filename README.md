@@ -40,6 +40,6 @@
 - [Matlab 控制 Gentl 协议高速相机](http://achuan-2.top/posts/6eabca6e.html)
 - [使用 Vercel 自动部署 hexo 博客](http://achuan-2.top/posts/f5348a5e.html)
 - [如何用ABBYY和Acrobat 给图书扫描版pdf添加书签和目录跳转](http://achuan-2.top/posts/34aeefad.html)
+- [研一下总结](http://achuan-2.top/posts/3bc3857.html)
 - [关于等待力和秩序感的思考](http://achuan-2.top/post/thinking-about-waiting-power-and-order-f3swz.html)
-- [一只23岁母单的反思](http://achuan-2.top/post/a-mother-s-reflection-z17orfm.html)
 <!-- BLOG-POST-LIST:END -->
