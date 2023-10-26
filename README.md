@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [极性如何让水变得特殊](http://achuan-2.top/posts/1c273c0b.html)
+- [无离线不笔记，我的笔记软件选择策略](http://achuan-2.top/posts/a86a49b6.html)
+- [《心灵奇旅  Soul》| 我的Spark是享受存在本身](http://achuan-2.top/posts/cf0a2858.html)
 - [Matlab 控制 Gentl 协议高速相机](http://achuan-2.top/posts/6eabca6e.html)
 - [使用 Vercel 自动部署 hexo 博客](http://achuan-2.top/posts/f5348a5e.html)
-- [如何用ABBYY和Acrobat 给图书扫描版pdf添加书签和目录跳转](http://achuan-2.top/posts/34aeefad.html)
-- [研一下总结](http://achuan-2.top/posts/3bc3857.html)
-- [《心动的信号6》| 不仅仅只是恋爱综艺](http://achuan-2.top/posts/e93c4010.html)
 <!-- BLOG-POST-LIST:END -->
