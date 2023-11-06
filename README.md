@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [Matlab  arguments 让函数回归函数](http://achuan-2.top/posts/4d88915f.html)
+- [Matlab 如何正确把图像转为uint8](http://achuan-2.top/posts/7a022c97.html)
+- [Matlab 把 ROI mask 以一定透明度叠加到黑白图像上](http://achuan-2.top/posts/99fd534.html)
 - [Matlab 有没有像 np.clip 一样的函数，限制数组的最大值和最小值](http://achuan-2.top/posts/4e5a6efe.html)
 - [Matlab 如何用二维mask给三维矩阵批量赋值](http://achuan-2.top/posts/2de03d23.html)
-- [Matlab 直接用 if 判断矩阵的返回值](http://achuan-2.top/posts/40f49a73.html)
-- [号外：GLaDOS签到白嫖已经不容易了](http://achuan-2.top/posts/e0e7da59.html)
-- [Win11 23H2 更新 | Windows Copilot 来袭！](http://achuan-2.top/posts/51a8f923.html)
 <!-- BLOG-POST-LIST:END -->
