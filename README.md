@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
-- [Matlab  arguments 让函数回归函数](http://achuan-2.top/posts/4d88915f.html)
-- [Matlab 如何正确把图像转为uint8](http://achuan-2.top/posts/7a022c97.html)
-- [Matlab 把 ROI mask 以一定透明度叠加到黑白图像上](http://achuan-2.top/posts/99fd534.html)
-- [Matlab 有没有像 np.clip 一样的函数，限制数组的最大值和最小值](http://achuan-2.top/posts/4e5a6efe.html)
-- [Matlab 如何用二维mask给三维矩阵批量赋值](http://achuan-2.top/posts/2de03d23.html)
+- [Matlab &#39;Hello World&#39; vs &quot;Hello World&quot; 单引号和双引号有何区别](http://achuan-2.top/post/what-is-the-difference-between-matlab-hello-world-vs-hello-world-single-quotation-number-and-dual-quotation-number-z1ynuyi.html)
+- [Matlab 基础编程语法](http://achuan-2.top/post/matlab-basic-programming-grammar-1ghj9i.html)
+- [Matlab reshape 按列扫描、按列填充——容易踩坑](http://achuan-2.top/post/matlab-reshape-scan-and-fill-in-columns-easy-to-step-on-the-pit-18flah.html)
+- [Matlab 如何将图形转化为轮廓](http://achuan-2.top/post/how-does-matlab-convert-graphics-into-outline-zo6ihg.html)
+- [Python 使用 np.vectorize 向量化函数，进行批量处理](http://achuan-2.top/post/python-uses-npvectorize-directional-function-to-perform-batch-processing-ipcdn.html)
 <!-- BLOG-POST-LIST:END -->
