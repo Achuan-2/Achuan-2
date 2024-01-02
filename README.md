@@ -37,9 +37,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [思源笔记|用quicker动作与zotero进行无缝联动](http://achuan-2.top/post/siyuan-note-use-quicker-action-to-seamlessly-link-with-zotero-zejypu.html)
 - [Matlab 2024a 尝鲜：函数编写体验大升级](http://achuan-2.top/post/matlab-2024a-everbright-functional-writing-experience-big-upgrade-eao4i.html)
 - [Matlab 如何读取、查看、保存Tiff](http://achuan-2.top/post/matlab-read-view-save-tiff-1pkevw.html)
 - [Groupy 2 多窗口管理工具升级体验](http://achuan-2.top/post/groupy-2-multi-window-management-tool-upgrade-experience-ocrer.html)
 - [思源笔记好搭档|最强剪贴板神器——CopyQ](http://achuan-2.top/post/siyuan-notes-good-partner-the-strongest-clipboard-artifact-copyq-z2grwhp.html)
-- [全网找不到满意的 Markdown 转 Docx 模板，那就自己动手吧](http://achuan-2.top/post/i-ca-n-t-find-a-satisfactory-word-template-on-the-entire-network-so-i-made-one-myself-nano3.html)
 <!-- BLOG-POST-LIST:END -->
