@@ -30,9 +30,8 @@
 ## 📈Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achuan-2" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achuan-2&show_icons=true&include_all_commits=true" />
 </div>
-
 
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
