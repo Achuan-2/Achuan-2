@@ -36,9 +36,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [书籍推荐——《自学是门手艺》](http://achuan-2.top/post/book-recommendation-self-study-is-the-door-craft-zja4yb.html)
 - [用Python批量给扫描pdf添加书签](http://achuan-2.top/post/scan-the-pdf-batch-with-python-batch-to-add-bookmarks-zn2z7s.html)
 - [思源笔记|用quicker动作与zotero进行无缝联动](http://achuan-2.top/post/siyuan-note-use-quicker-action-to-seamlessly-link-with-zotero-zejypu.html)
 - [Matlab 2024a 尝鲜：函数编写体验大升级](http://achuan-2.top/post/matlab-2024a-everbright-functional-writing-experience-big-upgrade-eao4i.html)
 - [Matlab 如何读取、查看、保存Tiff](http://achuan-2.top/post/matlab-read-view-save-tiff-1pkevw.html)
-- [Groupy 2 多窗口管理工具升级体验](http://achuan-2.top/post/groupy-2-multi-window-management-tool-upgrade-experience-ocrer.html)
 <!-- BLOG-POST-LIST:END -->
