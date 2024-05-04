@@ -36,9 +36,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [思考我应该如何度过我的一天](http://achuan-2.top/post/think-about-how-i-should-spend-my-day-zl38tl.html)
 - [用Markdown写微信公众号文章](http://achuan-2.top/post/write-a-wechat-public-account-article-with-markdown-zatxal.html)
 - [Hexo stellar主题更新 v1.28.0 及个性化修改](http://achuan-2.top/post/20240427-stellar-theme-update-v1280-and-decoration-zanvt4.html)
 - [书籍推荐——《自学是门手艺》](http://achuan-2.top/post/book-recommendation-self-study-is-the-door-craft-zja4yb.html)
 - [用Python批量给扫描pdf添加书签](http://achuan-2.top/post/scan-the-pdf-batch-with-python-batch-to-add-bookmarks-zn2z7s.html)
-- [思源笔记|用quicker动作与zotero进行无缝联动](http://achuan-2.top/post/siyuan-note-use-quicker-action-to-seamlessly-link-with-zotero-zejypu.html)
 <!-- BLOG-POST-LIST:END -->
