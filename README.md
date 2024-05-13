@@ -36,9 +36,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [MOC：面向主题地去管理笔记链接](http://achuan-2.top/post/moc-manage-the-notes-link-to-the-theme-4uatt.html)
 - [Matlab 优化异常处理：fprintf的妙用](http://achuan-2.top/post/matlab-optimization-abnormal-processing-fprintf-s-wonderful-use-z2wefdb.html)
 - [我过去在 onenote、wolai 的笔记管理方法](http://achuan-2.top/post/my-note-management-method-in-onenote-wolai-zrqwln.html)
 - [思考我应该如何度过我的一天](http://achuan-2.top/post/think-about-how-i-should-spend-my-day-zl38tl.html)
 - [用Markdown写微信公众号文章](http://achuan-2.top/post/write-a-wechat-public-account-article-with-markdown-zatxal.html)
-- [Hexo stellar主题更新 v1.28.0 及个性化修改](http://achuan-2.top/post/20240427-stellar-theme-update-v1280-and-decoration-zanvt4.html)
 <!-- BLOG-POST-LIST:END -->
