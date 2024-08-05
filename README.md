@@ -38,9 +38,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [@统计分析](http://achuan-2.top/post/statistical-analysis-z1nd6eg.html)
 - [Matlab 深度学习丨使用深度学习对网络摄像头图像进行分类](http://achuan-2.top/post/matlab-deep-learning-gun-use-deep-learning-to-classify-network-camera-images-kbghh.html)
 - [MATLAB 深度学习丨可视化卷积神经网络CNN的激活图](http://achuan-2.top/post/matlab-deep-learning-gun-activation-diagram-of-visualized-convolutional-neural-network-cnn-njgh6.html)
 - [为什么要写日记？](http://achuan-2.top/post/why-write-a-diary-hhfd6.html)
 - [MOC：面向主题地去管理笔记链接](http://achuan-2.top/post/moc-manage-the-notes-link-to-the-theme-4uatt.html)
-- [Matlab 优化异常处理：fprintf的妙用](http://achuan-2.top/post/matlab-optimization-abnormal-processing-fprintf-s-wonderful-use-z2wefdb.html)
 <!-- BLOG-POST-LIST:END -->
