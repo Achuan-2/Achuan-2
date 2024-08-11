@@ -38,9 +38,9 @@
 
 ### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [沉浸式翻译终于支持富文本翻译了](http://achuan-2.top/post/immersive-translation-finally-supports-rich-text-translation-z1hrao8.html)
 - [JS丨MutationObserver（DOM 变动观察器）](http://achuan-2.top/post/js-gun-mutationobserver-dom-change-observer-z1ygppd.html)
 - [@统计分析](http://achuan-2.top/post/statistical-analysis-z1nd6eg.html)
 - [Matlab 深度学习丨使用深度学习对网络摄像头图像进行分类](http://achuan-2.top/post/matlab-deep-learning-gun-use-deep-learning-to-classify-network-camera-images-kbghh.html)
 - [MATLAB 深度学习丨可视化卷积神经网络CNN的激活图](http://achuan-2.top/post/matlab-deep-learning-gun-activation-diagram-of-visualized-convolutional-neural-network-cnn-njgh6.html)
-- [为什么要写日记？](http://achuan-2.top/post/why-write-a-diary-hhfd6.html)
 <!-- BLOG-POST-LIST:END -->
