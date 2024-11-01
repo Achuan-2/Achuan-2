@@ -26,7 +26,7 @@
 </div>
 
 
-### 📝<a href="https://achuan-2.github.io/" target="_blank">Recent Blog</a>
+### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
 - [非参数检验丨Friedman’s test （多配对样本）](http://achuan-2.top/post/non-parameter-test-gun-friedman-s-test-multi-pairing-sample-zzs4jw.html)
 - [非参数检验丨Kruskal-Wallis检验（多独立样本单因素）](http://achuan-2.top/post/H%E6%A3%80%E9%AA%8C,%20H%20test.html)
