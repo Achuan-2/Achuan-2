@@ -20,13 +20,6 @@
 - Educational experience
    - Undergraduate(2018.09-2022.06): Bioinfomatics, Huazhong University of Science and Technology
    - Postgraduate(2022.9-Now): Neuroscience, Fudan University
-- Project
-   - [Achuan-2/Splicing-Sites-Predicter](https://github.com/Achuan-2/Splicing-Sites-Predicter)
-   - [Achuan-2/Alzheimer_16S_analysis](https://github.com/Achuan-2/Alzheimer_16S_analysis)
-   - [Achuan-2/ncldv_recover](https://github.com/Achuan-2/ncldv_recover)
-   - [Achuan-2/phage-host](https://github.com/Achuan-2/phage-host)
-   - [Achuan-2/unity_mouse_vr](https://github.com/Achuan-2/unity_mouse_vr)
-   - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku)
 
 
 ## 📈Statistics
