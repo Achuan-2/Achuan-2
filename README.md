@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [考试偏差值是什么](http://achuan-2.top/post/what-is-the-test-deviation-1b04w6.html)
 - [adobe illustrator 其实也有格式刷](http://achuan-2.top/post/adobe-illustrator-actually-has-a-format-brush-5soxr.html)
 - [非参数检验丨Friedman’s test （多配对样本）](http://achuan-2.top/post/non-parameter-test-gun-friedman-s-test-multi-pairing-sample-zzs4jw.html)
 - [非参数检验丨Kruskal-Wallis检验（多独立样本单因素）](http://achuan-2.top/post/H%E6%A3%80%E9%AA%8C,%20H%20test.html)
 - [统计分析丨卡方检验](http://achuan-2.top/post/statistical-analysis-gun-bayfoli-inspection-xgjxc.html)
-- [生活窍门丨为什么油性笔可以写在塑料上](http://achuan-2.top/post/life-tips-gun-why-can-oily-pen-can-be-written-on-plastic-1ruwyi.html)
 <!-- BLOG-POST-LIST:END -->
