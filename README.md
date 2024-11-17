@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [VSCode 设置了代理，但是Git Push依然失败，如何解决](http://achuan-2.top/post/vscode-has-set-an-agent-but-git-push-is-still-failed-how-to-solve-z2mhi0b.html)
+- [用Github管理代码项目丨我的版本管理方法](http://achuan-2.top/post/use-github-management-code-project-gun-my-version-management-method-jm4fp.html)
 - [VSCode 解决Code runner运行python不能调用选择的conda环境问题](http://achuan-2.top/post/vscode-solves-the-code-runner-running-python-s-conda-environment-problem-that-cannot-be-called-5beyp.html)
 - [PotPlayer播放器画面模糊不清，该怎么解决](http://achuan-2.top/post/potplayer-player-screen-is-blurred-how-to-solve-z1lvozo.html)
 - [考试偏差值是什么](http://achuan-2.top/post/what-is-the-test-deviation-1b04w6.html)
-- [adobe illustrator 其实也有格式刷](http://achuan-2.top/post/adobe-illustrator-actually-has-a-format-brush-5soxr.html)
-- [非参数检验丨Friedman’s test （多配对样本）](http://achuan-2.top/post/non-parameter-test-gun-friedman-s-test-multi-pairing-sample-zzs4jw.html)
 <!-- BLOG-POST-LIST:END -->
