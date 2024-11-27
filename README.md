@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [让GPT给我写了一个自动签到脚本丨GLaDOS每日自动签到油猴脚本](http://achuan-2.top/post/i-asked-gpt-to-write-a-automatic-sign-in-script-gun-glados-automatically-signed-the-oil-monkey-script-every-day-nrjrd.html)
 - [VSCode 设置了代理，但是Git Push依然失败，如何解决](http://achuan-2.top/post/vscode-has-set-an-agent-but-git-push-is-still-failed-how-to-solve-z2mhi0b.html)
 - [用Github管理代码项目丨我的版本管理方法](http://achuan-2.top/post/use-github-management-code-project-gun-my-version-management-method-jm4fp.html)
 - [VSCode 解决Code runner运行python不能调用选择的conda环境问题](http://achuan-2.top/post/vscode-solves-the-code-runner-running-python-s-conda-environment-problem-that-cannot-be-called-5beyp.html)
 - [PotPlayer播放器画面模糊不清，该怎么解决](http://achuan-2.top/post/potplayer-player-screen-is-blurred-how-to-solve-z1lvozo.html)
-- [考试偏差值是什么](http://achuan-2.top/post/what-is-the-test-deviation-1b04w6.html)
 <!-- BLOG-POST-LIST:END -->
