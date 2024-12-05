@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript和Python代码实现中文数字完美转阿拉伯数字，支持中文繁体数字，并实现中文章节排序](http://achuan-2.top/post/javascript-and-python-code-to-achieve-chinese-numbers-perfectly-transfer-to-arabic-numerals-support-chinese-traditional-numbers-and-implement-chinese-articles-sorting-z1uhhvy.html)
 - [小红书终于两千粉啦 丨分享我与小红书的故事](http://achuan-2.top/post/xiaohongshu-finally-two-thousand-pinks-gun-share-my-story-with-xiaohongshu-z5askh.html)
 - [让GPT给我写了一个自动签到脚本丨GLaDOS每日自动签到油猴脚本](http://achuan-2.top/post/i-asked-gpt-to-write-a-automatic-sign-in-script-gun-glados-automatically-signed-the-oil-monkey-script-every-day-nrjrd.html)
 - [VSCode 设置了代理，但是Git Push依然失败，如何解决](http://achuan-2.top/post/vscode-has-set-an-agent-but-git-push-is-still-failed-how-to-solve-z2mhi0b.html)
 - [用Github管理代码项目丨我的版本管理方法](http://achuan-2.top/post/use-github-management-code-project-gun-my-version-management-method-jm4fp.html)
-- [VSCode 解决Code runner运行python不能调用选择的conda环境问题](http://achuan-2.top/post/vscode-solves-the-code-runner-running-python-s-conda-environment-problem-that-cannot-be-called-5beyp.html)
 <!-- BLOG-POST-LIST:END -->
