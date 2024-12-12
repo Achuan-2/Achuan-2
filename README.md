@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [PPT 宏丨图片 加图题](http://achuan-2.top/post/ppt-macro-gun-picture-plus-picture-questions-zmn1ej.html)
+- [Zotero丨专门用于PPT引用文献的格式](http://achuan-2.top/post/zotero-gun-format-for-ppt-reference-literature-1usphn.html)
 - [Python丨jupyter要重新调用修改后的自定义模块，应该怎么办](http://achuan-2.top/post/python-gun-justyter-wants-to-re-call-the-modified-custom-module-what-should-i-do-1c0o5p.html)
 - [JavaScript和Python代码实现中文数字完美转阿拉伯数字，支持中文繁体数字，并实现中文章节排序](http://achuan-2.top/post/javascript-and-python-code-to-achieve-chinese-numbers-perfectly-transfer-to-arabic-numerals-support-chinese-traditional-numbers-and-implement-chinese-articles-sorting-z1uhhvy.html)
 - [小红书终于两千粉啦 丨分享我与小红书的故事](http://achuan-2.top/post/xiaohongshu-finally-two-thousand-pinks-gun-share-my-story-with-xiaohongshu-z5askh.html)
-- [让GPT给我写了一个自动签到脚本丨GLaDOS每日自动签到油猴脚本](http://achuan-2.top/post/i-asked-gpt-to-write-a-automatic-sign-in-script-gun-glados-automatically-signed-the-oil-monkey-script-every-day-nrjrd.html)
-- [VSCode 设置了代理，但是Git Push依然失败，如何解决](http://achuan-2.top/post/vscode-has-set-an-agent-but-git-push-is-still-failed-how-to-solve-z2mhi0b.html)
 <!-- BLOG-POST-LIST:END -->
