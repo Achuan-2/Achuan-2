@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [我好像默认别人都讨厌我，所以一直没有朋友](http://achuan-2.top/post/i-seem-to-hate-me-by-default-so-i-have-no-friends-18si5t.html)
 - [PPT 宏丨图片 加图题](http://achuan-2.top/post/ppt-macro-gun-picture-plus-picture-questions-zmn1ej.html)
 - [Zotero丨专门用于PPT引用文献的格式](http://achuan-2.top/post/zotero-gun-format-for-ppt-reference-literature-1usphn.html)
 - [Python丨jupyter要重新调用修改后的自定义模块，应该怎么办](http://achuan-2.top/post/python-gun-justyter-wants-to-re-call-the-modified-custom-module-what-should-i-do-1c0o5p.html)
 - [JavaScript和Python代码实现中文数字完美转阿拉伯数字，支持中文繁体数字，并实现中文章节排序](http://achuan-2.top/post/javascript-and-python-code-to-achieve-chinese-numbers-perfectly-transfer-to-arabic-numerals-support-chinese-traditional-numbers-and-implement-chinese-articles-sorting-z1uhhvy.html)
-- [小红书终于两千粉啦 丨分享我与小红书的故事](http://achuan-2.top/post/xiaohongshu-finally-two-thousand-pinks-gun-share-my-story-with-xiaohongshu-z5askh.html)
 <!-- BLOG-POST-LIST:END -->
