@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [GPT 第三方 API 和插件推荐](http://achuan-2.top/post/gpt-third-party-api-and-plug-in-recommendation-2sn7c.html)
 - [我是怎么记文献笔记的？](http://achuan-2.top/post/how-did-i-remember-literature-notes-geqrg.html)
 - [我好像默认别人都讨厌我，所以一直没有朋友](http://achuan-2.top/post/i-seem-to-hate-me-by-default-so-i-have-no-friends-18si5t.html)
 - [PPT 宏丨图片 加图题](http://achuan-2.top/post/ppt-macro-gun-picture-plus-picture-questions-zmn1ej.html)
 - [Zotero丨专门用于PPT引用文献的格式](http://achuan-2.top/post/zotero-gun-format-for-ppt-reference-literature-1usphn.html)
-- [Python丨jupyter要重新调用修改后的自定义模块，应该怎么办](http://achuan-2.top/post/python-gun-justyter-wants-to-re-call-the-modified-custom-module-what-should-i-do-1c0o5p.html)
 <!-- BLOG-POST-LIST:END -->
