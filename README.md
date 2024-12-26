@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [数学建模：如何利用主成分分析法计算指标权重进行对象综合评价？](http://achuan-2.top/post/mathematical-modeling-how-to-use-the-main-component-analysis-method-to-calculate-the-right-to-comprehensively-evaluate-the-object-1xyqmc.html)
 - [数学建模算法：AHP层次分析法](http://achuan-2.top/post/mathematical-model-algorithm-ahp-hierarchical-analysis-method-z1oowre.html)
 - [线性代数中的特征值和特征向量](http://achuan-2.top/post/featured-values-and-feature-vectors-in-linear-algebra-2vkaem.html)
 - [GPT 第三方 API 和插件推荐](http://achuan-2.top/post/gpt-third-party-api-and-plug-in-recommendation-2sn7c.html)
 - [我是怎么记文献笔记的？](http://achuan-2.top/post/how-did-i-remember-literature-notes-geqrg.html)
-- [我好像默认别人都讨厌我，所以一直没有朋友](http://achuan-2.top/post/i-seem-to-hate-me-by-default-so-i-have-no-friends-18si5t.html)
 <!-- BLOG-POST-LIST:END -->
