@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [2024年每个月要给未来的自己写一封信](http://achuan-2.top/post/write-a-letter-to-your-future-in-2024-z1lsyvm.html)
+- [我应该如何正确写日记](http://achuan-2.top/post/how-should-i-write-a-diary-correctly-2voopt.html)
 - [数学建模：如何利用主成分分析法计算指标权重进行对象综合评价？](http://achuan-2.top/post/mathematical-modeling-how-to-use-the-main-component-analysis-method-to-calculate-the-right-to-comprehensively-evaluate-the-object-1xyqmc.html)
 - [数学建模算法：AHP层次分析法](http://achuan-2.top/post/mathematical-model-algorithm-ahp-hierarchical-analysis-method-z1oowre.html)
 - [线性代数中的特征值和特征向量](http://achuan-2.top/post/featured-values-and-feature-vectors-in-linear-algebra-2vkaem.html)
-- [GPT 第三方 API 和插件推荐](http://achuan-2.top/post/gpt-third-party-api-and-plug-in-recommendation-2sn7c.html)
-- [我是怎么记文献笔记的？](http://achuan-2.top/post/how-did-i-remember-literature-notes-geqrg.html)
 <!-- BLOG-POST-LIST:END -->
