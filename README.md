@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [《如何成为不完美主义者》：做了总比没做好，用20%的努力收获80%的成果](http://achuan-2.top/post/how-to-be-an-ecactist-do-not-do-it-well-than-to-do-it-and-use-20-vent-to-harvest-80-1muy2a.html)
+- [读研：重要的不是治愈，而是带着病痛活下去](http://achuan-2.top/post/research-what-is-important-is-not-cure-but-live-with-illness-1asnp2.html)
 - [Monthly Letter丨2024年总结：接受不完美](http://achuan-2.top/post/monthly-letter-gun-summary-in-2024-acceptance-1ayn1k.html)
-- [2024年每个月要给未来的自己写一封信](http://achuan-2.top/post/write-a-letter-to-your-future-in-2024-z1lsyvm.html)
+- [2025年每个月都给未来的自己写一封信吧](http://achuan-2.top/post/write-a-letter-to-your-future-in-2024-z1lsyvm.html)
 - [我应该如何正确写日记](http://achuan-2.top/post/how-should-i-write-a-diary-correctly-2voopt.html)
-- [数学建模：如何利用主成分分析法计算指标权重进行对象综合评价？](http://achuan-2.top/post/mathematical-modeling-how-to-use-the-main-component-analysis-method-to-calculate-the-right-to-comprehensively-evaluate-the-object-1xyqmc.html)
-- [数学建模算法：AHP层次分析法](http://achuan-2.top/post/mathematical-model-algorithm-ahp-hierarchical-analysis-method-z1oowre.html)
 <!-- BLOG-POST-LIST:END -->
