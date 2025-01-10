@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [我开发了一个PPT插件！支持批量添加图片标题，复制粘贴位置、批量图片对齐！](http://achuan-2.top/post/i-developed-a-ppt-plug-in-support-batch-additional-picture-title-copy-the-paste-location-and-align-batch-pictures-z1ap9ss.html)
 - [年度反思清单模板](http://achuan-2.top/post/annual-reflection-list-template-zst2fj.html)
 - [2025年计划：我好想要重启新人生呀！](http://achuan-2.top/post/plan-for-2025-i-really-want-to-restart-a-new-life-2dylv1.html)
 - [《如何成为不完美主义者》：做了总比没做好，用20%的努力收获80%的成果](http://achuan-2.top/post/how-to-be-an-ecactist-do-not-do-it-well-than-to-do-it-and-use-20-vent-to-harvest-80-1muy2a.html)
 - [读研：重要的不是治愈，而是带着病痛活下去](http://achuan-2.top/post/research-what-is-important-is-not-cure-but-live-with-illness-1asnp2.html)
-- [Monthly Letter丨2024年总结：接受不完美](http://achuan-2.top/post/monthly-letter-gun-summary-in-2024-acceptance-1ayn1k.html)
 <!-- BLOG-POST-LIST:END -->
