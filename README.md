@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [或许要管理的并非时间，而是任务](http://achuan-2.top/post/perhaps-it-is-not-time-to-manage-but-task-zitpef.html)
+- [知识管理是“效率陷阱”，于是我打算放弃知识管理](http://achuan-2.top/post/knowledge-management-is-an-efficiency-trap-so-i-plan-to-give-up-knowledge-management-z26mykt.html)
+- [deepseek锐评神经生物学](http://achuan-2.top/post/deepseek-sharp-review-of-neurobiology-zdnkag.html)
+- [deepseek锐评神经生物学](http://achuan-2.top/post/deepseek-sharp-review-of-neurobiology-zdnkag.html)
 - [DeepSeek锐评各大笔记软件：Obsidian、Notion、flomo、思源笔记、语雀、OneNote](http://achuan-2.top/post/deepseek-railway-s-major-notes-obsidian-notion-flomo-siyuan-note-twisque-onenote-z1dp1os.html)
-- [《防弹笔记法》阅读笔记：应该如何收集和处理资料](http://achuan-2.top/post/bullet-anti-notes-reading-note-how-to-collect-and-process-materials-z1ciwdr.html)
-- [我开发了一个PPT插件！支持批量添加图片标题，复制粘贴位置、批量图片对齐！](http://achuan-2.top/post/i-developed-a-ppt-plug-in-support-batch-additional-picture-title-copy-the-paste-location-and-align-batch-pictures-z1ap9ss.html)
-- [年度反思清单模板](http://achuan-2.top/post/annual-reflection-list-template-zst2fj.html)
-- [2025年计划：我好想要重启新人生呀！](http://achuan-2.top/post/plan-for-2025-i-really-want-to-restart-a-new-life-2dylv1.html)
 <!-- BLOG-POST-LIST:END -->
