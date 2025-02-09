@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [还在折腾本地部署残废Deepseek？快来免费使用DeepSeek API](http://achuan-2.top/post/still-trying-to-deploy-disabled-deepseek-locally-come-and-use-the-deepseek-api-for-free-2evh5m.html)
 - [或许要管理的并非时间，而是任务](http://achuan-2.top/post/perhaps-it-is-not-time-to-manage-but-task-zitpef.html)
 - [知识管理是“效率陷阱”，于是我打算放弃知识管理](http://achuan-2.top/post/knowledge-management-is-an-efficiency-trap-so-i-plan-to-give-up-knowledge-management-z26mykt.html)
 - [deepseek锐评神经生物学](http://achuan-2.top/post/deepseek-sharp-review-of-neurobiology-zdnkag.html)
 - [deepseek锐评神经生物学](http://achuan-2.top/post/deepseek-sharp-review-of-neurobiology-zdnkag.html)
-- [DeepSeek锐评各大笔记软件：Obsidian、Notion、flomo、思源笔记、语雀、OneNote](http://achuan-2.top/post/deepseek-railway-s-major-notes-obsidian-notion-flomo-siyuan-note-twisque-onenote-z1dp1os.html)
 <!-- BLOG-POST-LIST:END -->
