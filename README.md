@@ -11,7 +11,7 @@
 
 ## 🥱About me
 
-- Name: Jixiong Su
+
 - Nickname：Achuan-2（Tron)
 - Hometown: Ningde, Fujian Province in China
 - Educational experience
