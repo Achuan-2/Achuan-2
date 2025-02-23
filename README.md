@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [如何正确洗头？](http://achuan-2.top/post/how-to-wash-your-hair-correctly-1mc2r8.html)
 - [还在折腾本地部署残废Deepseek？快来免费使用DeepSeek API](http://achuan-2.top/post/still-trying-to-deploy-disabled-deepseek-locally-come-and-use-the-deepseek-api-for-free-2evh5m.html)
 - [或许要管理的并非时间，而是任务](http://achuan-2.top/post/perhaps-it-is-not-time-to-manage-but-task-zitpef.html)
 - [每天刷手机停不下来？小心陷入「廉价多巴胺陷阱」](http://achuan-2.top/post/can-t-stop-browsing-your-phone-every-day-beware-of-falling-into-the-cheap-dopamine-trap-zxathv.html)
 - [知识管理是“效率陷阱”，于是我打算放弃知识管理](http://achuan-2.top/post/knowledge-management-is-an-efficiency-trap-so-i-plan-to-give-up-knowledge-management-z26mykt.html)
-- [deepseek锐评神经生物学](http://achuan-2.top/post/deepseek-sharp-review-of-neurobiology-zdnkag.html)
 <!-- BLOG-POST-LIST:END -->
