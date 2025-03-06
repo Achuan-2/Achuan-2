@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [git 删除文件的所有提交历史](http://achuan-2.top/post/git-deletes-all-commit-history-of-a-file-t2tqq.html)
+- [震惊！git支持直接查看word的内容修改了，可以用git来做论文版本管理了](http://achuan-2.top/post/shock-git-supports-directly-viewing-word-content-modifications-and-you-can-use-git-for-paper-version-management-z1r4tac.html)
 - [如何正确洗头？](http://achuan-2.top/post/how-to-wash-your-hair-correctly-1mc2r8.html)
 - [还在折腾本地部署残废Deepseek？快来免费使用DeepSeek API](http://achuan-2.top/post/still-trying-to-deploy-disabled-deepseek-locally-come-and-use-the-deepseek-api-for-free-2evh5m.html)
 - [或许要管理的并非时间，而是任务](http://achuan-2.top/post/perhaps-it-is-not-time-to-manage-but-task-zitpef.html)
-- [每天刷手机停不下来？小心陷入「廉价多巴胺陷阱」](http://achuan-2.top/post/can-t-stop-browsing-your-phone-every-day-beware-of-falling-into-the-cheap-dopamine-trap-zxathv.html)
-- [知识管理是“效率陷阱”，于是我打算放弃知识管理](http://achuan-2.top/post/knowledge-management-is-an-efficiency-trap-so-i-plan-to-give-up-knowledge-management-z26mykt.html)
 <!-- BLOG-POST-LIST:END -->
