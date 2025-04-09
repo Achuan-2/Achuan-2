@@ -29,8 +29,8 @@
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
 - [Matlab 优化异常处理的错误显示：弹窗显示错误以及显示错误代码的具体位置](http://achuan-2.top/post/matlab-optimizes-error-display-for-exception-handling-popup-window-displays-errors-and-the-specific-location-of-the-error-code-to-display-vtexe.html)
+- [Matlab 读取超大文件丨memmapfile](http://achuan-2.top/post/matlab-reads-super-large-filegun-memmapfile-zj7f76.html)
 - [廉价鼠标也可以自定义鼠标按键！我可以省下买新鼠标的钱了](http://achuan-2.top/post/inexpensive-mouse-can-also-customize-mouse-buttons-i-can-save-money-on-buying-a-new-mouse-z29jymq.html)
 - [git 删除文件的所有提交历史](http://achuan-2.top/post/git-deletes-all-commit-history-of-a-file-t2tqq.html)
 - [震惊！git支持直接查看word的内容修改了，可以用git来做论文版本管理了](http://achuan-2.top/post/shock-git-supports-directly-viewing-word-content-modifications-and-you-can-use-git-for-paper-version-management-z1r4tac.html)
-- [如何正确洗头？](http://achuan-2.top/post/how-to-wash-your-hair-correctly-1mc2r8.html)
 <!-- BLOG-POST-LIST:END -->
