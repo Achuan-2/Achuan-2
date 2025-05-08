@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [思考如何写实验记录](http://achuan-2.top/post/think-about-how-to-write-experimental-records-29a8xq.html)
 - [Matlab 如何自定义colormap](http://achuan-2.top/post/how-to-customize-colormap-in-matlab-z2krip8.html)
 - [【转载】如何从钙成像数据中计算ΔF／F](http://achuan-2.top/post/reprint-how-to-calculate-df-f-from-calcium-imaging-data-zi5thg.html)
 - [生活记录丨买了新相机松下g95、谈谈手机摄影与相机的区别](http://achuan-2.top/post/life-recordsgun-i-bought-a-new-camera-panasonic-g95-talk-about-the-difference-between-mobile-phone-photography-and-camera-znroeq.html)
 - [【转载】为什么“统计显著性”毫无意义](http://achuan-2.top/post/reprint-why-statistical-significance-is-meaningless-21rzgr.html)
-- [AI+MCP+Pubmed：自动搜索和总结文献，快速生成综述](http://achuan-2.top/post/ai-mcp-pubmed-automatically-search-and-summarize-literature-quickly-generate-reviews-fztog.html)
 <!-- BLOG-POST-LIST:END -->
