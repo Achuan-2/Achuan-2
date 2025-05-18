@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [这次真的被震惊到了！😱 原来matlab .m文件早就可以转为.mlapp格式，我的app开发体验大大改善](http://achuan-2.top/post/i-was-really-shocked-this-time-it-turns-out-that-the-matlab-m-file-can-be-converted-to-mlapp-format-long-ago-and-my-app-development-experience-has-been-greatly-improved-z225lnn.html)
+- [为了统一imaris 3d重建后的视角，我写了一个插件](http://achuan-2.top/post/in-order-to-unify-the-perspective-after-imaris-3d-reconstruction-i-wrote-a-plugin-rboi8.html)
 - [思考如何写实验记录](http://achuan-2.top/post/think-about-how-to-write-experimental-records-29a8xq.html)
 - [Matlab 如何自定义colormap](http://achuan-2.top/post/how-to-customize-colormap-in-matlab-z2krip8.html)
 - [【转载】如何从钙成像数据中计算ΔF／F](http://achuan-2.top/post/reprint-how-to-calculate-df-f-from-calcium-imaging-data-zi5thg.html)
-- [生活记录丨买了新相机松下g95、谈谈手机摄影与相机的区别](http://achuan-2.top/post/life-recordsgun-i-bought-a-new-camera-panasonic-g95-talk-about-the-difference-between-mobile-phone-photography-and-camera-znroeq.html)
-- [【转载】为什么“统计显著性”毫无意义](http://achuan-2.top/post/reprint-why-statistical-significance-is-meaningless-21rzgr.html)
 <!-- BLOG-POST-LIST:END -->
