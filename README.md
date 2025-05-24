@@ -28,9 +28,9 @@
 
 ### 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [matlab 如何调用 python 代码](http://achuan-2.top/siyuan:/blocks/20231101141334-phd1gv6/)
 - [Matlab bug丨2023b app designer 的组件propery设置为空白如何解决](http://achuan-2.top/post/matlab-buggun-how-to-solve-the-problem-of-setting-the-component-property-of-the-2023b-app-designer-to-blank-wlnge.html)
 - [这次真的被震惊到了！😱 原来matlab .m文件早就可以转为.mlapp格式，我的app开发体验大大改善](http://achuan-2.top/post/i-was-really-shocked-this-time-it-turns-out-that-the-matlab-m-file-can-be-converted-to-mlapp-format-long-ago-and-my-app-development-experience-has-been-greatly-improved-z225lnn.html)
 - [为了统一imaris 3d重建后的视角，我写了一个插件](http://achuan-2.top/post/in-order-to-unify-the-perspective-after-imaris-3d-reconstruction-i-wrote-a-plugin-rboi8.html)
 - [思考如何写实验记录](http://achuan-2.top/post/think-about-how-to-write-experimental-records-29a8xq.html)
-- [Matlab 如何自定义colormap](http://achuan-2.top/post/how-to-customize-colormap-in-matlab-z2krip8.html)
 <!-- BLOG-POST-LIST:END -->
