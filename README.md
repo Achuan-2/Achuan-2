@@ -29,10 +29,10 @@
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
 - [matlab 如何调用 python 代码](http://achuan-2.top/siyuan:/blocks/20231101141334-phd1gv6/)
+- [pandoc将markdown导出为docx，如何修改图片标题为title文本而不是alt文本](http://achuan-2.top/post/pandoc-exports-markdown-as-docx-how-to-modify-image-title-to-title-text-instead-of-alt-text-19kkpr.html)
 - [科研不要太用力，研究生要忙而不乱，如何打破“瞎忙”怪圈，保持精力？](http://achuan-2.top/post/don-t-work-too-hard-in-scientific-research-graduate-students-should-be-busy-without-being-messed-up-how-to-break-the-vicious-circle-of-blindly-busy-and-keep-your-energy-1ssjyu.html)
 - [Matlab bug丨2023b app designer 的组件propery设置为空白如何解决](http://achuan-2.top/post/matlab-buggun-how-to-solve-the-problem-of-setting-the-component-property-of-the-2023b-app-designer-to-blank-wlnge.html)
 - [这次真的被震惊到了！😱 原来matlab .m文件早就可以转为.mlapp格式，我的app开发体验大大改善](http://achuan-2.top/post/i-was-really-shocked-this-time-it-turns-out-that-the-matlab-m-file-can-be-converted-to-mlapp-format-long-ago-and-my-app-development-experience-has-been-greatly-improved-z225lnn.html)
-- [为了统一imaris 3d重建后的视角，我写了一个插件](http://achuan-2.top/post/in-order-to-unify-the-perspective-after-imaris-3d-reconstruction-i-wrote-a-plugin-rboi8.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## ❤Donate
