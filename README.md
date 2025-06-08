@@ -28,7 +28,7 @@
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
-- [matlab 如何调用 python 代码](http://achuan-2.top/siyuan:/blocks/20231101141334-phd1gv6/)
+- [用AI写高考作文，你会打几分](http://achuan-2.top/post/how-many-points-will-you-give-to-write-a-college-entrance-examination-essay-using-ai-z29raja.html)
 - [pandoc将markdown导出为docx，如何修改图片标题为title文本而不是alt文本](http://achuan-2.top/post/pandoc-exports-markdown-as-docx-how-to-modify-image-title-to-title-text-instead-of-alt-text-19kkpr.html)
 - [科研不要太用力，研究生要忙而不乱，如何打破“瞎忙”怪圈，保持精力？](http://achuan-2.top/post/don-t-work-too-hard-in-scientific-research-graduate-students-should-be-busy-without-being-messed-up-how-to-break-the-vicious-circle-of-blindly-busy-and-keep-your-energy-1ssjyu.html)
 - [Matlab bug丨2023b app designer 的组件propery设置为空白如何解决](http://achuan-2.top/post/matlab-buggun-how-to-solve-the-problem-of-setting-the-component-property-of-the-2023b-app-designer-to-blank-wlnge.html)
