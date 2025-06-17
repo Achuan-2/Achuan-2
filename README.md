@@ -37,5 +37,6 @@
 
 ## ❤Donate
 如果喜欢我的作品，欢迎给我买杯咖啡，这会激励我继续维护作品和持续创作新作品
+个人时间和精力有限，如果项目star和赞赏人数过少，我会考虑停止维护某个项目，不再回复用户问题和需求。
 
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
