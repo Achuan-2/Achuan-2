@@ -28,11 +28,11 @@
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [深入讲解「番茄工作法」：一天专注十小时还不累的秘密](http://achuan-2.top/post/indepth-explanation-of-tomato-work-method-the-secret-of-focusing-on-ten-hours-a-day-without-tired-135zeh.html)
 - [为了在笔记软件里进行任务管理，我写了一个插件，代替滴答清单](http://achuan-2.top/post/in-order-to-manage-tasks-in-the-notes-software-i-wrote-a-plugin-instead-of-the-ticking-list-zlaurd.html)
 - [用AI写高考作文，你会打几分](http://achuan-2.top/post/how-many-points-will-you-give-to-write-a-college-entrance-examination-essay-using-ai-z29raja.html)
 - [pandoc将markdown导出为docx，如何修改图片标题为title文本而不是alt文本](http://achuan-2.top/post/pandoc-exports-markdown-as-docx-how-to-modify-image-title-to-title-text-instead-of-alt-text-19kkpr.html)
 - [科研不要太用力，研究生要忙而不乱，如何打破“瞎忙”怪圈，保持精力？](http://achuan-2.top/post/don-t-work-too-hard-in-scientific-research-graduate-students-should-be-busy-without-being-messed-up-how-to-break-the-vicious-circle-of-blindly-busy-and-keep-your-energy-1ssjyu.html)
-- [Matlab bug丨2023b app designer 的组件propery设置为空白如何解决](http://achuan-2.top/post/matlab-buggun-how-to-solve-the-problem-of-setting-the-component-property-of-the-2023b-app-designer-to-blank-wlnge.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## ❤Donate
