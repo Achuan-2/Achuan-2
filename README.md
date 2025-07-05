@@ -22,7 +22,7 @@
 ## 📈Statistics
 
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Achuan-2&show_icons=true&include_all_commits=true&&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Achuan-2&show_icons=true&include_all_commits=true&&rank_icon=github" />
 </div>
 
 
