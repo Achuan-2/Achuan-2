@@ -31,11 +31,11 @@
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [Cursor 0.45.14 卸载不完全](http://achuan-2.top/post/cursor-04514-uninstalled-incompletely-1bmg9x.html)
 - [思源笔记与Zotero联动详细教程：如何用思源笔记管理文献、写文献笔记、写论文初稿](http://achuan-2.top/post/detailed-tutorial-on-linking-siyuan-notes-and-zotero-how-to-use-siyuan-notes-to-manage-literature-write-document-notes-and-write-first-draft-of-papers-28ub2m.html)
 - [关于flomo和双链渐进式笔记法的吐槽，不吐不快：在增援未来的自己之前，请先增援现在的自己！](http://achuan-2.top/post/i-m-not-happy-about-flomo-and-doublestranded-progressive-notes-before-reinforcing-my-future-self-please-reinforcing-my-current-self-first-z78fcm.html)
 - [深入讲解「番茄工作法」：一天专注十小时还不累的秘密](http://achuan-2.top/post/indepth-explanation-of-tomato-work-method-the-secret-of-focusing-on-ten-hours-a-day-without-tired-135zeh.html)
 - [为了在笔记软件里进行任务管理，我写了一个插件，代替滴答清单](http://achuan-2.top/post/in-order-to-manage-tasks-in-the-notes-software-i-wrote-a-plugin-instead-of-the-ticking-list-zlaurd.html)
-- [用AI写高考作文，你会打几分](http://achuan-2.top/post/how-many-points-will-you-give-to-write-a-college-entrance-examination-essay-using-ai-z29raja.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## ❤Donate
