@@ -43,7 +43,7 @@
 
 个人时间和精力有限，优先考虑赞赏用户的使用答疑、功能建议和bug反馈。
 
-累积赞赏50元的朋友如果想加我微信，可以发邮件到achuan-2@outlook.com来进行好友申请（赞赏达不到50元的，我不会回复哦，因为不想当免费客服）
+累积赞赏50元的朋友如果想加我微信，可以发邮件到achuan-2@outlook.com来进行好友申请（赞赏达不到50元的，我不会回复邮件和加好友哦，因为不想当免费客服）
 
 
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
