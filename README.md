@@ -41,7 +41,7 @@
 ## ❤Donate
 如果喜欢我的作品，欢迎给我买杯咖啡，这会激励我继续维护项目和持续创作新项目。
 
-个人时间和精力有限，优先考虑赞赏用户提的功能建议和bug反馈，累积赞赏50元的朋友如果想加我微信，可以发送邮箱achuan-2@outlook.com来进行好友申请
+个人时间和精力有限，优先考虑赞赏用户提的功能建议和bug反馈，累积赞赏50元的朋友如果想加我微信，可以发邮件到achuan-2@outlook.com来进行好友申请
 
 
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
