@@ -47,8 +47,8 @@
    - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin) <img src="https://img.shields.io/github/stars/Achuan-2/illustrator_sci_plugin" alt="stars">：Adobe Illustrator的插件，用于辅助制作科研绘图
    - [Achuan-2/pandoc_word_template](https://github.com/Achuan-2/pandoc_word_template) <img src="https://img.shields.io/github/stars/Achuan-2/pandoc_word_template" alt="stars">：基于Pandoc的Word模板，用于高效生成格式化文档，适用于学术写作等场景。
 - 机器学习
-   - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) <img src="https://img.shields.io/github/stars/Achuan-2/xiaobai_ai" alt="stars"> - 《小白也能听懂的人工智能原理》学习笔记
-   - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) <img src="https://img.shields.io/github/stars/Achuan-2/math_in_machine_learning" alt="stars"> - 《白话机器学习的数学》学习笔记
+   - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) <img src="https://img.shields.io/github/stars/Achuan-2/xiaobai_ai" alt="stars">：《小白也能听懂的人工智能原理》学习笔记
+   - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) <img src="https://img.shields.io/github/stars/Achuan-2/math_in_machine_learning" alt="stars">：《白话机器学习的数学》学习笔记
 - 思源笔记
    - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-themes-tsundoku" alt="stars">：思源笔记的主题，提供美观的界面样式。
    - [Achuan-2/siyuan-plugin-templates](https://github.com/Achuan-2/siyuan-plugin-templates) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-templates" alt="stars">：思源笔记的插件模板
