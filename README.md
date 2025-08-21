@@ -33,6 +33,28 @@
   </tr>
 </table>
 
+# My repo
+
+- 科研
+   - https://github.com/Achuan-2/volume_view
+   - https://github.com/Achuan-2/calcium_deltaF_caculate
+   - https://github.com/Achuan-2/beautifyFigure
+- 办公效率插件
+   - https://github.com/Achuan-2/SlideSCI
+   - https://github.com/Achuan-2/illustrator_sci_plugin
+   - https://github.com/Achuan-2/pandoc_word_template
+- 思源笔记
+  - https://github.com/Achuan-2/siyuan-themes-tsundoku
+  - https://github.com/Achuan-2/siyuan-plugin-task-note-management
+  - https://github.com/Achuan-2/siyuan-code-snippets
+  - https://github.com/Achuan-2/siyuan-note-templates
+  - https://github.com/Achuan-2/siyuan-plugin-blockref-footnote
+  - https://github.com/Achuan-2/siyuan-plugin-templates
+  - https://github.com/Achuan-2/siyuan-plugin-doc-diff
+  - https://github.com/Achuan-2/siyuan-plugin-formatPainter
+  - https://github.com/Achuan-2/siyuan-plugin-doctree-autosort
+
+
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
