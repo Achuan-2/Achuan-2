@@ -46,7 +46,7 @@
 - 思源笔记
   - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku)：思源笔记的主题，提供美观的界面样式。
   - [Achuan-2/siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management)：思源笔记的任务笔记管理插件，帮助用户管理任务和相关笔记。
-  - [Achuan-2/siyuan-code-snippets](https://github.com/Achuan-2/siyuan-code-snippets)：推测为思源笔记的代码片段管理插件，方便插入和管理代码。
+  - [Achuan-2/siyuan-code-snippets](https://github.com/Achuan-2/siyuan-code-snippets)：个人思源笔记代码片段，增强思源笔记功能
   - [Achuan-2/siyuan-note-templates](https://github.com/Achuan-2/siyuan-note-templates)：思源笔记的笔记模板，提供多种模板以提高笔记创建效率。
   - [Achuan-2/siyuan-plugin-blockref-footnote](https://github.com/Achuan-2/siyuan-plugin-blockref-footnote)：思源笔记的块引脚注插件，增强脚注功能。
   - [Achuan-2/siyuan-plugin-templates](https://github.com/Achuan-2/siyuan-plugin-templates)：思源笔记的插件模板
