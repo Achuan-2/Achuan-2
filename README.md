@@ -40,13 +40,13 @@
    - [Achuan-2/calcium_deltaF_caculate](https://github.com/Achuan-2/calcium_deltaF_caculate)：计算钙信号deltaF（荧光变化）的工具，适用于神经科学等领域的钙成像数据分析。
    - [Achuan-2/beautifyFigure](https://github.com/Achuan-2/beautifyFigure)：Matlab科研图表美化工具
    - [Achuan-2/tiff-utils](https://github.com/Achuan-2/tiff-utils): 面向显微/成像数据的 TIFF 读写与处理Matlab代码集合
-- 机器学习
-   - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) - 《小白也能听懂的人工智能原理》学习笔记
-   - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) - 《白话机器学习的数学》学习笔记
 - 办公效率插件
    - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI)：PPT插件，助力高效制作组会汇报PPT。
    - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin)：Adobe Illustrator的插件，用于辅助制作科研绘图
    - [Achuan-2/pandoc_word_template](https://github.com/Achuan-2/pandoc_word_template)：基于Pandoc的Word模板，用于高效生成格式化文档，适用于学术写作等场景。
+- 机器学习
+   - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) - 《小白也能听懂的人工智能原理》学习笔记
+   - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) - 《白话机器学习的数学》学习笔记
 - 思源笔记
    - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku)：思源笔记的主题，提供美观的界面样式。
    - [Achuan-2/siyuan-plugin-templates](https://github.com/Achuan-2/siyuan-plugin-templates)：思源笔记的插件模板
