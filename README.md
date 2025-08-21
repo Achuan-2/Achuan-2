@@ -36,23 +36,23 @@
 # My repo
 
 - 科研
-   - https://github.com/Achuan-2/volume_view
-   - https://github.com/Achuan-2/calcium_deltaF_caculate
-   - https://github.com/Achuan-2/beautifyFigure
+   - [Achuan-2/volume_view](https://github.com/Achuan-2/volume_view)：一款MATLAB工具，用于3D体数据可视化，基于vol3d v2改进。解决了原工具无法设置体素大小、调整比例后层间有黑线、y轴方向颠倒等问题，支持设置xyz的volsize并进行线性插值，能正确显示轴刻度标签，方向与imaris viewer一致，方便3D重建血管等场景使用。
+   - [Achuan-2/calcium_deltaF_caculate](https://github.com/Achuan-2/calcium_deltaF_caculate)：计算钙信号deltaF（荧光变化）的工具，适用于神经科学等领域的钙成像数据分析。
+   - [Achuan-2/beautifyFigure](https://github.com/Achuan-2/beautifyFigure)：Matlab科研图表美化工具
 - 办公效率插件
-   - https://github.com/Achuan-2/SlideSCI
-   - https://github.com/Achuan-2/illustrator_sci_plugin
-   - https://github.com/Achuan-2/pandoc_word_template
+   - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI)：PPT插件，助力高效制作组会汇报PPT。
+   - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin)：Adobe Illustrator的插件，用于辅助制作科研绘图
+   - [Achuan-2/pandoc_word_template](https://github.com/Achuan-2/pandoc_word_template)：基于Pandoc的Word模板，用于高效生成格式化文档，适用于学术写作等场景。
 - 思源笔记
-  - https://github.com/Achuan-2/siyuan-themes-tsundoku
-  - https://github.com/Achuan-2/siyuan-plugin-task-note-management
-  - https://github.com/Achuan-2/siyuan-code-snippets
-  - https://github.com/Achuan-2/siyuan-note-templates
-  - https://github.com/Achuan-2/siyuan-plugin-blockref-footnote
-  - https://github.com/Achuan-2/siyuan-plugin-templates
-  - https://github.com/Achuan-2/siyuan-plugin-doc-diff
-  - https://github.com/Achuan-2/siyuan-plugin-formatPainter
-  - https://github.com/Achuan-2/siyuan-plugin-doctree-autosort
+  - [Achuan-2/siyuan-themes-tsundoku](https://github.com/Achuan-2/siyuan-themes-tsundoku)：思源笔记的主题，提供美观的界面样式。
+  - [Achuan-2/siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management)：思源笔记的任务笔记管理插件，帮助用户管理任务和相关笔记。
+  - [Achuan-2/siyuan-code-snippets](https://github.com/Achuan-2/siyuan-code-snippets)：推测为思源笔记的代码片段管理插件，方便插入和管理代码。
+  - [Achuan-2/siyuan-note-templates](https://github.com/Achuan-2/siyuan-note-templates)：思源笔记的笔记模板，提供多种模板以提高笔记创建效率。
+  - [Achuan-2/siyuan-plugin-blockref-footnote](https://github.com/Achuan-2/siyuan-plugin-blockref-footnote)：思源笔记的块引脚注插件，增强脚注功能。
+  - [Achuan-2/siyuan-plugin-templates](https://github.com/Achuan-2/siyuan-plugin-templates)：思源笔记的插件模板
+  - [Achuan-2/siyuan-plugin-doc-diff](https://github.com/Achuan-2/siyuan-plugin-doc-diff)：思源笔记的文档差异对比插件，用于比较文档不同版本的差异。
+  - [Achuan-2/siyuan-plugin-formatPainter](https://github.com/Achuan-2/siyuan-plugin-formatPainter)：思源笔记的格式刷插件
+  - [Achuan-2/siyuan-plugin-doctree-autosort](https://github.com/Achuan-2/siyuan-plugin-doctree-autosort)：思源笔记的文档树自动排序插件
 
 
 
