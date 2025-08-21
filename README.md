@@ -39,6 +39,7 @@
    - [Achuan-2/volume_view](https://github.com/Achuan-2/volume_view)：一款MATLAB工具，用于3D体数据可视化，基于vol3d v2改进。解决了原工具无法设置体素大小、调整比例后层间有黑线、y轴方向颠倒等问题，支持设置xyz的volsize并进行线性插值，能正确显示轴刻度标签，方向与imaris viewer一致，方便3D重建血管等场景使用。
    - [Achuan-2/calcium_deltaF_caculate](https://github.com/Achuan-2/calcium_deltaF_caculate)：计算钙信号deltaF（荧光变化）的工具，适用于神经科学等领域的钙成像数据分析。
    - [Achuan-2/beautifyFigure](https://github.com/Achuan-2/beautifyFigure)：Matlab科研图表美化工具
+   - [Achuan-2/tiff-utils](https://github.com/Achuan-2/tiff-utils): 面向显微/成像数据的 TIFF 读写与处理Matlab代码集合
 - 办公效率插件
    - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI)：PPT插件，助力高效制作组会汇报PPT。
    - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin)：Adobe Illustrator的插件，用于辅助制作科研绘图
