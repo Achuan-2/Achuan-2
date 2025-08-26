@@ -81,7 +81,9 @@
 
 累积赞赏50元的朋友如果想加我微信，可以发邮件到achuan-2@outlook.com来进行好友申请（赞赏达不到50元的，我不会回复邮件和加好友哦，因为不想当免费客服）
 
-ps：如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐一个第三方API网站：<https://api.gpt.ge/register?aff=fQIZ>，非常好用，按量付费，各个AI模型都能使用，使用这个链接注册将获得 $0.3 余额奖励
+ps：如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐下面的第三方API网站，非常好用，按量付费，各个AI模型都能使用
+1. <https://api.gpt.ge/register?aff=fQIZ>
+2. <https://api.videocaptioner.cn/register?aff=Pqyk>
 
 
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
