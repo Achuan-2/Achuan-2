@@ -81,9 +81,12 @@
 
 累积赞赏50元的朋友如果想加我微信，可以发邮件到achuan-2@outlook.com来进行好友申请（赞赏达不到50元的，我不会回复邮件和加好友哦，因为不想当免费客服）
 
-ps：如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐下面的第三方API网站，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱
-<https://api.gpt.ge/register?aff=fQIZ>
-
-
-
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
+
+
+ps：
+
+如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐[V3 API网站](https://api.gpt.ge/register?aff=fQIZ)，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱，使用我的邀请链接注册可以获得0.3$余额奖励试用。
+
+如果有需要VPN的朋友，推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱白嫖365天，每天签到还可以增加会员天数，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
+
