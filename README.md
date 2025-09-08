@@ -86,7 +86,7 @@
 
 ps：
 
-如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐[V3 API网站](https://api.gpt.ge/register?aff=fQIZ)，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱，使用我的邀请链接注册可以获得0.3$余额奖励试用。
+如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐[V3 API网站](https://api.gpt.ge/register?aff=fQIZ)，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱，使用我的邀请链接注册可以获得$0.3余额奖励试用。
 
-如果有需要VPN的朋友，推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱白嫖365天，每天签到还可以增加会员天数，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
+如果有需要VPN的朋友，推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱白嫖365天，如果要升级套餐赠送的365天直接会直接加在新购买套餐上，每天签到还可以增加会员天数，非常良心，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
 
