@@ -44,7 +44,7 @@
    - [Achuan-2/tiff-utils](https://github.com/Achuan-2/tiff-utils) <img src="https://img.shields.io/github/stars/Achuan-2/tiff-utils" alt="stars">: 面向显微/成像数据的 TIFF 读写与处理Matlab代码集合
 - 办公效率插件
    - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) <img src="https://img.shields.io/github/stars/Achuan-2/SlideSCI" alt="stars">：PPT插件，助力高效制作组会汇报PPT。
-   - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin) <img src="https://img.shields.io/github/stars/Achuan-2/illustrator_sci_plugin" alt="stars">：Adobe Illustrator的插件，用于辅助制作科研绘图
+   - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin) <img src="https://img.shields.io/github/stars/Achuan-2/illustrator_sci_plugin" alt="stars">：Adobe Illustrator的科研组图插件
    - [Achuan-2/pandoc_word_template](https://github.com/Achuan-2/pandoc_word_template) <img src="https://img.shields.io/github/stars/Achuan-2/pandoc_word_template" alt="stars">：基于Pandoc的Word模板，用于高效生成格式化文档，适用于学术写作等场景。
 - 机器学习
    - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) <img src="https://img.shields.io/github/stars/Achuan-2/xiaobai_ai" alt="stars">：《小白也能听懂的人工智能原理》学习笔记
