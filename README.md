@@ -87,7 +87,9 @@
 
 ps：
 
-如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友，推荐[V3 API网站](https://api.gpt.ge/register?aff=fQIZ)，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱，使用我的[邀请链接](https://api.gpt.ge/register?aff=fQIZ)注册可以获得$0.3余额奖励试用。
+如果有需要使用GPT5、Gemini 2.5 Pro、Claude 4.0等模型的朋友
+- 推荐[V3 API网站](https://api.gpt.ge/register?aff=fQIZ)，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱，使用我的[邀请链接](https://api.gpt.ge/register?aff=fQIZ)注册可以获得$0.3余额奖励试用。
+- CherryStudio官方也搞了一个[API站点](https://open.cherryin.ai/register?aff=x6sS)，人民币比美刀是1：1, 欢迎使用我的邀请链接https://open.cherryin.ai/register?aff=x6sS注册
 
 如果有需要VPN的朋友，推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱可以白嫖365天，如果要升级套餐之前赠送的365天会直接加在新购买套餐上，每天签到还可以增加会员天数，非常良心，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
 
