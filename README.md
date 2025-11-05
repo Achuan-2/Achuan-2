@@ -56,6 +56,7 @@
    - [Achuan-2/siyuan-note-templates](https://github.com/Achuan-2/siyuan-note-templates) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-note-templates" alt="stars">：思源笔记的笔记模板，提供多种模板以提高笔记创建效率。
    - [Achuan-2/siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-task-note-management" alt="stars">：思源笔记的任务笔记管理插件，帮助用户管理任务和相关笔记。
    - [Achuan-2/siyuan-plugin-blockref-footnote](https://github.com/Achuan-2/siyuan-plugin-blockref-footnote) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-blockref-footnote" alt="stars">：思源笔记的块引脚注插件，增强脚注功能。
+   - [Achuan-2/siyuan-plugin-copilot](https://github.com/Achuan-2/siyuan-plugin-copilot) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-copilot" alt="stars">：思源笔记的AI侧栏问答插件
    - [Achuan-2/siyuan-plugin-doc-diff](https://github.com/Achuan-2/siyuan-plugin-doc-diff) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-doc-diff" alt="stars">：思源笔记的文档差异对比插件，用于比较文档不同版本的差异。
    - [Achuan-2/siyuan-plugin-formatPainter](https://github.com/Achuan-2/siyuan-plugin-formatPainter) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-formatPainter" alt="stars">：思源笔记的格式刷插件
    - [Achuan-2/siyuan-plugin-doctree-autosort](https://github.com/Achuan-2/siyuan-plugin-doctree-autosort) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-doctree-autosort" alt="stars">：思源笔记的文档树自动排序插件
