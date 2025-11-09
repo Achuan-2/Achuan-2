@@ -42,6 +42,7 @@
    - [Achuan-2/calcium_deltaF_caculate](https://github.com/Achuan-2/calcium_deltaF_caculate) <img src="https://img.shields.io/github/stars/Achuan-2/calcium_deltaF_caculate" alt="stars">：计算钙信号ΔF/F的工具，适用于神经科学等领域的钙成像数据分析。
    - [Achuan-2/beautifyFigure](https://github.com/Achuan-2/beautifyFigure) <img src="https://img.shields.io/github/stars/Achuan-2/beautifyFigure" alt="stars">：Matlab科研图表美化工具
    - [Achuan-2/tiff-utils](https://github.com/Achuan-2/tiff-utils) <img src="https://img.shields.io/github/stars/Achuan-2/tiff-utils" alt="stars">: 面向显微/成像数据的 TIFF 读写与处理Matlab代码集合
+   - [Achuan-2/calcium_aligner](https://github.com/Achuan-2/calcium_aligner) <img src="https://img.shields.io/github/stars/Achuan-2/calcium_aligner" alt="stars">: 钙成像配准GUI软件python版本
 - 办公效率插件
    - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) <img src="https://img.shields.io/github/stars/Achuan-2/SlideSCI" alt="stars">：PPT插件，助力高效制作组会汇报PPT。
    - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin) <img src="https://img.shields.io/github/stars/Achuan-2/illustrator_sci_plugin" alt="stars">：Adobe Illustrator的科研组图插件
