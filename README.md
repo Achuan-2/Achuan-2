@@ -56,6 +56,8 @@
    - [Achuan-2/siyuan-code-snippets](https://github.com/Achuan-2/siyuan-code-snippets) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-code-snippets" alt="stars">：个人思源笔记代码片段，增强思源笔记功能
    - [Achuan-2/siyuan-note-templates](https://github.com/Achuan-2/siyuan-note-templates) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-note-templates" alt="stars">：思源笔记的笔记模板，提供多种模板以提高笔记创建效率。
    - [Achuan-2/siyuan-plugin-task-note-management](https://github.com/Achuan-2/siyuan-plugin-task-note-management) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-task-note-management" alt="stars">：思源笔记的任务笔记管理插件，帮助用户管理任务和相关笔记。
+   - [Achuan-2/siyuan-plugin-simplemindmap](https://github.com/Achuan-2/siyuan-plugin-simplemindmap) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-simplemindmap" alt="stars">: 思源笔记思绪思维导图插件，自动保存思维导图为图片，支持图片二次编辑，支持导图与块绑定，自动更新内容
+   - [Achuan-2/siyuan-plugin-drawnix](https://github.com/Achuan-2/siyuan-plugin-drawnix) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-drawnix" alt="stars">: 思源笔记Drawnix插件，支持思维导图、流程图、画笔功能，自动保存白板为图片，图片支持二次编辑
    - [Achuan-2/siyuan-plugin-blockref-footnote](https://github.com/Achuan-2/siyuan-plugin-blockref-footnote) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-blockref-footnote" alt="stars">：思源笔记的块引脚注插件，增强脚注功能。
    - [Achuan-2/siyuan-plugin-copilot](https://github.com/Achuan-2/siyuan-plugin-copilot) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-copilot" alt="stars">：思源笔记的AI侧栏问答插件
    - [Achuan-2/siyuan-plugin-doc-diff](https://github.com/Achuan-2/siyuan-plugin-doc-diff) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-doc-diff" alt="stars">：思源笔记的文档差异对比插件，用于比较文档不同版本的差异。
