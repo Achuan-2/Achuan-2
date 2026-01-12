@@ -44,10 +44,11 @@
    - [Achuan-2/beautifyFigure](https://github.com/Achuan-2/beautifyFigure) <img src="https://img.shields.io/github/stars/Achuan-2/beautifyFigure" alt="stars">：Matlab科研图表美化工具
    - [Achuan-2/tiff-utils](https://github.com/Achuan-2/tiff-utils) <img src="https://img.shields.io/github/stars/Achuan-2/tiff-utils" alt="stars">: 面向显微/成像数据的 TIFF 读写与处理Matlab代码集合
    - [Achuan-2/calcium_aligner](https://github.com/Achuan-2/calcium_aligner) <img src="https://img.shields.io/github/stars/Achuan-2/calcium_aligner" alt="stars">: 钙成像配准GUI软件python版本
-- 办公效率插件
+- 办公效率插件与脚本
    - [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) <img src="https://img.shields.io/github/stars/Achuan-2/SlideSCI" alt="stars">：PPT插件，助力高效制作组会汇报PPT。
    - [Achuan-2/illustrator_sci_plugin](https://github.com/Achuan-2/illustrator_sci_plugin) <img src="https://img.shields.io/github/stars/Achuan-2/illustrator_sci_plugin" alt="stars">：Adobe Illustrator的科研组图插件
    - [Achuan-2/pandoc_word_template](https://github.com/Achuan-2/pandoc_word_template) <img src="https://img.shields.io/github/stars/Achuan-2/pandoc_word_template" alt="stars">：基于Pandoc的Word模板，用于高效生成格式化文档，适用于学术写作等场景。
+   - [Achuan-2/my-Tampermonkey-scripts](https://github.com/Achuan-2/my-Tampermonkey-scripts)：个人自用油猴脚本
 - 机器学习
    - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) <img src="https://img.shields.io/github/stars/Achuan-2/xiaobai_ai" alt="stars">：《小白也能听懂的人工智能原理》学习笔记
    - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) <img src="https://img.shields.io/github/stars/Achuan-2/math_in_machine_learning" alt="stars">：《白话机器学习的数学》学习笔记
