@@ -91,6 +91,10 @@
 
 <img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
 
+Non-Chinese users can use Wise to donate to me
+
+![Alipay](https://github.com/user-attachments/assets/7676dad5-e0ea-4023-bb6b-98767191e953)
+
 
 ps：
 
