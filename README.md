@@ -98,8 +98,8 @@ Non-Chinese users can use Wise to donate to me
 
 ps：
 
-如果有需要使用GPT、Gemini、Claude等模型的朋友,推荐下面两个中转站，非常好用，按量付费，各个AI模型都能使用，比用官方的API能省不少钱：
-- [Achuan-2 API](https://gpt.achuan-2.top/register?aff=ZndO)：人民币比美刀 0.6:1
+如果有需要使用GPT、Gemini、Claude等模型的朋友
+- 推荐[Achuan-2 API](https://gpt.achuan-2.top/register?aff=ZndO)：人民币比美刀 0.6:1，按量付费，各个AI模型都能使用，比用官方的API能省不少钱：
 
 
 
