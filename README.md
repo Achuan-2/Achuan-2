@@ -73,11 +73,11 @@
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
 <!-- BLOG-POST-LIST:START -->
+- [作为个人开发者，我是如何开发收费功能的？](http://achuan-2.top/post/as-an-individual-developer-how-do-i-develop-paid-functions-1jtxzr.html)
 - [像训练AI一样，训练你自己](http://achuan-2.top/post/just-like-training-ai-train-yourself-puxen.html)
 - [研究生要有“农夫思维”，以产出为导向，放下“打铁匠思维”](http://achuan-2.top/post/postgraduate-students-should-have-a-farmer-s-mind-be-outputoriented-and-put-aside-the-blacksmith-s-mind-1evlno.html)
 - [《智能简史》](http://achuan-2.top/post/a-brief-history-of-intelligence-zer007.html)
 - [Cursor 0.45.14 卸载不完全](http://achuan-2.top/post/cursor-04514-uninstalled-incompletely-1bmg9x.html)
-- [思源笔记与Zotero联动详细教程：如何用思源笔记管理文献、写文献笔记、写论文初稿](http://achuan-2.top/post/detailed-tutorial-on-linking-siyuan-notes-and-zotero-how-to-use-siyuan-notes-to-manage-literature-write-document-notes-and-write-first-draft-of-papers-28ub2m.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## ❤Donate
