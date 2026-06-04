@@ -27,9 +27,6 @@
     <td align="center" valign="top">
       <img src="https://github-readme-stats-fast.vercel.app/api?username=Achuan-2&show_icons=true&include_all_commits=true&rank_icon=github" />
     </td>
-    <td align="center" valign="top">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Achuan-2" />
-    </td>
   </tr>
 </table>
 
