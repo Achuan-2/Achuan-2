@@ -77,18 +77,8 @@
 - [Cursor 0.45.14 卸载不完全](http://achuan-2.top/post/cursor-04514-uninstalled-incompletely-1bmg9x.html)
 <!-- BLOG-POST-LIST:END -->
 
-## ❤Donate
+## 广告位
 
-开源与创作不易，如果喜欢我的作品，欢迎给我赞赏，这会激励我继续维护项目和持续创作新项目。
-
-<img src="https://cdn.nlark.com/yuque/0/2024/jpeg/1408046/1714754573393-9c7f70b0-05ec-489e-b5a2-1a37fb681f6f.jpeg?x-oss-process=image%2Fformat%2Cwebp%2Finterlace%2C1" width="50%" >
-
-Non-Chinese users can use Wise to donate to me
-
-![Alipay](https://github.com/user-attachments/assets/7676dad5-e0ea-4023-bb6b-98767191e953)
-
-
-ps：
 如果你需要使用各种AI模型
 - 欢迎使用[A API中转站](https://gpt.achuan-2.top/register?aff=ZndO), 人民币比美刀为0.6:1，一个接口调用全球各种顶尖模型
 
