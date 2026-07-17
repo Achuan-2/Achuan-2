@@ -86,7 +86,7 @@
 - 推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱可以白嫖365天，如果要升级套餐之前赠送的365天会直接加在新购买套餐上，每天签到还可以增加会员天数，非常良心，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
 
 如果你也是一位像我一样的个人独立开发者，想为你的软件或者网站添加付费功能：
-- 欢迎使用Zpay，我的邀请链接：https://z-pay.cn/?uid=23304
+- 欢迎使用Zpay，我的邀请链接：https://z-pay.cn/?uid=23304，我的付费功能开发经验见：[作为个人开发者，我是如何开发收费功能的？](http://achuan-2.top/post/as-an-individual-developer-how-do-i-develop-paid-functions-1jtxzr.html)
 
 
 
