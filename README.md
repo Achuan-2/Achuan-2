@@ -79,9 +79,6 @@
 
 ## 广告位
 
-如果你需要使用各种AI模型
-- 欢迎使用[A API中转站](https://gpt.achuan-2.top/register?aff=ZndO), 人民币比美刀为0.6:1，一个接口调用全球各种顶尖模型
-
 如果有需要VPN的朋友
 - 推荐使用[GLaDOS VPN](https://glados.space/landing/1BOMB-EIZ8C-WOM8V-5UBYZ)，教育邮箱可以白嫖365天，如果要升级套餐之前赠送的365天会直接加在新购买套餐上，每天签到还可以增加会员天数，非常良心，使用我的邀请码：1BOMB-EIZ8C-WOM8V-5UBYZ，可以额外增加14天会员
 
