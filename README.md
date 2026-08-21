@@ -65,6 +65,7 @@
 如果你也是一位像我一样的个人独立开发者，想为你的软件或者网站添加付费功能：
 - 欢迎使用Zpay，我的邀请链接：<https://z-pay.cn/?uid=23304>，我的付费功能开发经验见：[作为个人开发者，我是如何开发收费功能的？](http://achuan-2.top/post/as-an-individual-developer-how-do-i-develop-paid-functions-1jtxzr.html)
 
-如果你需要使用各个AI模型
-- 推荐使用 [V-API中转站](https://gpt.ge/signup?aff=fQIZ)
+如果你需要使用各个AI模型，下面推荐
+- [APImart](https://go.apimart.ai/gh-slidesci)
+- [V-API中转站](https://gpt.ge/signup?aff=fQIZ)
 
