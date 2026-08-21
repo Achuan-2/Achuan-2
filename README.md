@@ -66,6 +66,6 @@
 - 欢迎使用Zpay，我的邀请链接：<https://z-pay.cn/?uid=23304>，我的付费功能开发经验见：[作为个人开发者，我是如何开发收费功能的？](http://achuan-2.top/post/as-an-individual-developer-how-do-i-develop-paid-functions-1jtxzr.html)
 
 如果你需要使用各个AI模型，下面推荐
-- [APImart](https://go.apimart.ai/gh-slidesci)
+- [APImart](https://go.apimart.ai/gh-slidesci): GPT-Image-2 低至 $0.006/张，1 美元可出图 160+ 张。
 - [V-API中转站](https://gpt.ge/signup?aff=fQIZ)
 
