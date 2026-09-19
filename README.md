@@ -48,6 +48,7 @@
    - [Achuan-2/siyuan-plugin-formatPainter](https://github.com/Achuan-2/siyuan-plugin-formatPainter) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-formatPainter" alt="stars"> ： 思源笔记格式刷插件，批量应用样式
    - [Achuan-2/siyuan-plugin-highlight-cloze](https://github.com/Achuan-2/siyuan-plugin-highlight-cloze) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-highlight-cloze" alt="stars"> ：思源笔记高亮文本隐藏/显示插件
    - [Achuan-2/siyuan-plugin-childdoc-organizer](https://github.com/Achuan-2/siyuan-plugin-childdoc-organizer) <img src="https://img.shields.io/github/stars/Achuan-2/siyuan-plugin-childdoc-organizer" alt="stars"> ：简化思源笔记子文档创建、归档、排序等操作
+   - [Achuan-2/siyuan-plugin-list-outline](https://github.com/Achuan-2/siyuan-plugin-list-outline): 思源笔记列表大纲插件
 
 
 ## 📝<a href="https://achuan-2.top/" target="_blank">Recent Blog</a>
