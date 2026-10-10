@@ -78,4 +78,5 @@
 
 <img width="592" height="592" alt="image" src="https://github.com/user-attachments/assets/7927f505-0b11-428c-906a-5a98a9e7d1ca" />
 
-Non-Chinese users can this link to [leave a tip](https://pancake.waffo.ai/store/achuan-2-fdbho4ye/product/PROD_3F7Aa7c2NQlz9KmxcgxjQ7?type=onetime&currency=USD)
+Non-Chinese users can this link to [buy me a coffee](https://pancake.waffo.ai/store/achuan-2-fdbho4ye/product/PROD_3F7Aa7c2NQlz9KmxcgxjQ7?type=onetime&currency=USD)
+
