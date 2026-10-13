@@ -27,7 +27,9 @@
    - [Achuan-2/my-Tampermonkey-scripts](https://github.com/Achuan-2/my-Tampermonkey-scripts)：个人自用油猴脚本
    - [Achuan-2/labmice-manager](https://github.com/Achuan-2/labmice-manager)：实验室鼠房管理网站
    - [Achuan-2/imgReEditor](https://github.com/Achuan-2/imgReEditor)：可重复编辑的图片编辑器，解决普通图片编辑器不可以重复编辑，photoshop、PPT等软件又太重，需要新建项目折腾导出的问题
-   - [Achuan-2/prism-plot](https://github.com/Achuan-2/prism-plot):  GraphPad Prism 科研绘图与统计分析自动化 Skill
+ - skills
+     - [Achuan-2/prism-plot](https://github.com/Achuan-2/prism-plot):  GraphPad Prism 科研绘图与统计分析自动化 Skill
+     - [Achuan-2/write-draft-outline](https://github.com/Achuan-2/write-draft-outline/tree/main): 交付一份作者可以继续展开、合作方可以判断文章内容的大纲。
 - 机器学习
    - [xiaobai_ai](https://github.com/Achuan-2/xiaobai_ai) <img src="https://img.shields.io/github/stars/Achuan-2/xiaobai_ai" alt="stars">：《小白也能听懂的人工智能原理》学习笔记
    - [math_in_machine_learning](https://github.com/Achuan-2/math_in_machine_learning) <img src="https://img.shields.io/github/stars/Achuan-2/math_in_machine_learning" alt="stars">：《白话机器学习的数学》学习笔记
