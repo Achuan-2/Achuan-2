@@ -74,6 +74,7 @@
 
 如果你需要使用各个AI模型，下面推荐
 - [A API](https://gpt.achuan-2.top/register?aff=SfUb)
+- [V API](https://api.gpt.ge/register?aff=fQIZ)
 
 ## 用爱发电
 
